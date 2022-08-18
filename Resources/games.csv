@@ -1,0 +1,784 @@
+gameId,year,round,date,venue,startTime,attendance,homeTeam,homeTeamScore,awayTeam,awayTeamScore,rainfall
+2021SF02,2021,SF,4-Sep-21,Gabba,7:20 PM,30647,Brisbane Lions,78,Western Bulldogs,79,2.2
+2021SF01,2021,SF,3-Sep-21,Perth Stadium,5:50 PM,44091,Geelong,103,Greater Western Sydney,68,4.6
+2021R909,2021,R9,16-May-21,Perth Stadium,2:40 PM,43427,West Coast,106,Adelaide,76,0
+2021R908,2021,R9,16-May-21,M.C.G.,3:20 PM,38581,Melbourne,94,Carlton,68,0.1
+2021R907,2021,R9,16-May-21,Docklands,1:10 PM,26357,Essendon,68,Fremantle,61,0.1
+2021R906,2021,R9,15-May-21,Adelaide Oval,7:10 PM,32787,Port Adelaide,77,Western Bulldogs,96,3.4
+2021R905,2021,R9,15-May-21,Docklands,7:25 PM,18798,Richmond,87,Greater Western Sydney,83,8.4
+2021R904,2021,R9,15-May-21,Carrara,4:35 PM,12636,Gold Coast,51,Brisbane Lions,124,0
+2021R903,2021,R9,15-May-21,York Park,2:10 PM,9121,Hawthorn,80,North Melbourne,87,0
+2021R902,2021,R9,15-May-21,S.C.G.,1:45 PM,31448,Sydney,72,Collingwood,42,0
+2021R901,2021,R9,14-May-21,Docklands,7:50 PM,26712,St Kilda,47,Geelong,68,4.2
+2021R809,2021,R8,9-May-21,Gabba,4:40 PM,15403,Brisbane Lions,95,Fremantle,71,0
+2021R808,2021,R8,9-May-21,Docklands,3:20 PM,27663,Western Bulldogs,107,Carlton,91,0.6
+2021R807,2021,R8,9-May-21,M.C.G.,1:10 PM,15277,Hawthorn,60,West Coast,98,0.6
+2021R806,2021,R8,8-May-21,Adelaide Oval,7:10 PM,43069,Port Adelaide,87,Adelaide,38,0
+2021R805,2021,R8,8-May-21,M.C.G.,7:25 PM,35567,Melbourne,67,Sydney,58,0
+2021R804,2021,R8,8-May-21,Docklands,4:35 PM,22329,North Melbourne,76,Collingwood,94,0
+2021R803,2021,R8,8-May-21,Sydney Showground,2:10 PM,8526,Greater Western Sydney,107,Essendon,105,1.4
+2021R802,2021,R8,8-May-21,Carrara,1:45 PM,9271,Gold Coast,54,St Kilda,63,0
+2021R801,2021,R8,7-May-21,M.C.G.,7:50 PM,54857,Richmond,63,Geelong,126,0
+2021R709,2021,R7,2-May-21,Perth Stadium,2:40 PM,0,West Coast,132,Fremantle,73,0
+2021R708,2021,R7,2-May-21,M.C.G.,3:20 PM,57447,Essendon,107,Carlton,123,0
+2021R707,2021,R7,2-May-21,Bellerive Oval,1:10 PM,6009,North Melbourne,73,Melbourne,103,
+2021R706,2021,R7,1-May-21,Gabba,7:25 PM,20007,Brisbane Lions,93,Port Adelaide,44,6.2
+2021R705,2021,R7,1-May-21,S.C.G.,7:25 PM,29123,Sydney,90,Geelong,88,0
+2021R704,2021,R7,1-May-21,Docklands,4:35 PM,26433,St Kilda,128,Hawthorn,59,0
+2021R703,2021,R7,1-May-21,Adelaide Oval,1:40 PM,28853,Adelaide,39,Greater Western Sydney,106,0
+2021R702,2021,R7,1-May-21,M.C.G.,1:45 PM,24397,Collingwood,55,Gold Coast,79,0
+2021R701,2021,R7,30-Apr-21,M.C.G.,7:50 PM,52402,Richmond,77,Western Bulldogs,55,0
+2021R609,2021,R6,25-Apr-21,Adelaide Oval,6:10 PM,33125,Port Adelaide,93,St Kilda,39,0
+2021R608,2021,R6,25-Apr-21,M.C.G.,3:20 PM,78113,Collingwood,85,Essendon,109,2.8
+2021R607,2021,R6,25-Apr-21,York Park,12:30 PM,9007,Hawthorn,102,Adelaide,99,0
+2021R606,2021,R6,24-Apr-21,Perth Stadium,6:15 PM,0,Fremantle,99,North Melbourne,48,0
+2021R605,2021,R6,24-Apr-21,M.C.G.,7:25 PM,56418,Melbourne,82,Richmond,48,0
+2021R604,2021,R6,24-Apr-21,Docklands,4:35 PM,29576,Carlton,85,Brisbane Lions,103,0
+2021R603,2021,R6,24-Apr-21,Carrara,1:45 PM,9819,Gold Coast,100,Sydney,60,0
+2021R602,2021,R6,24-Apr-21,Kardinia Park,1:45 PM,21282,Geelong,136,West Coast,39,0
+2021R601,2021,R6,23-Apr-21,Manuka Oval,7:50 PM,10064,Greater Western Sydney,65,Western Bulldogs,104,0
+2021R509,2021,R5,18-Apr-21,Kardinia Park,4:40 PM,21282,Geelong,77,North Melbourne,47,0
+2021R508,2021,R5,18-Apr-21,M.C.G.,3:20 PM,36337,Hawthorn,54,Melbourne,104,0
+2021R507,2021,R5,18-Apr-21,Adelaide Oval,12:40 PM,31454,Adelaide,72,Fremantle,84,0
+2021R506,2021,R5,17-Apr-21,Gabba,7:25 PM,23544,Brisbane Lions,102,Essendon,45,0
+2021R505,2021,R5,17-Apr-21,M.C.G.,7:25 PM,32893,Carlton,68,Port Adelaide,96,0
+2021R504,2021,R5,17-Apr-21,S.C.G.,4:35 PM,33541,Sydney,69,Greater Western Sydney,71,0
+2021R503,2021,R5,17-Apr-21,Docklands,4:35 PM,18920,Western Bulldogs,118,Gold Coast,56,0
+2021R502,2021,R5,16-Apr-21,Perth Stadium,6:10 PM,54159,West Coast,103,Collingwood,76,0
+2021R501,2021,R5,15-Apr-21,Docklands,7:20 PM,32056,St Kilda,48,Richmond,134,0.1
+2021R409,2021,R4,11-Apr-21,Perth Stadium,2:40 PM,29490,Fremantle,96,Hawthorn,81,4.4
+2021R408,2021,R4,11-Apr-21,M.C.G.,3:20 PM,33728,Melbourne,85,Geelong,60,4.2
+2021R407,2021,R4,11-Apr-21,Docklands,1:10 PM,13479,North Melbourne,68,Adelaide,109,4.2
+2021R406,2021,R4,10-Apr-21,M.C.G.,7:25 PM,29866,Collingwood,60,Greater Western Sydney,90,0.4
+2021R405,2021,R4,10-Apr-21,Carrara,7:25 PM,11618,Gold Coast,59,Carlton,70,0
+2021R404,2021,R4,10-Apr-21,Docklands,4:35 PM,16710,St Kilda,102,West Coast,82,0.4
+2021R403,2021,R4,10-Apr-21,Eureka Stadium,1:35 PM,7387,Western Bulldogs,73,Brisbane Lions,54,0.6
+2021R402,2021,R4,9-Apr-21,Adelaide Oval,7:20 PM,33742,Port Adelaide,79,Richmond,77,0.8
+2021R401,2021,R4,8-Apr-21,S.C.G.,7:20 PM,28039,Sydney,83,Essendon,80,34.6
+2021R309,2021,R3,5-Apr-21,M.C.G.,3:20 PM,50030,Geelong,69,Hawthorn,64,0
+2021R308,2021,R3,4-Apr-21,Manuka Oval,6:10 PM,9563,Greater Western Sydney,68,Melbourne,102,0
+2021R307,2021,R3,4-Apr-21,Docklands,3:20 PM,24551,Carlton,109,Fremantle,64,0
+2021R306,2021,R3,3-Apr-21,Perth Stadium,5:10 PM,42090,West Coast,108,Port Adelaide,71,0
+2021R305,2021,R3,3-Apr-21,Docklands,4:35 PM,29234,Essendon,143,St Kilda,68,0
+2021R304,2021,R3,3-Apr-21,M.C.G.,1:45 PM,43637,Richmond,72,Sydney,117,0
+2021R303,2021,R3,2-Apr-21,Adelaide Oval,7:20 PM,30175,Adelaide,95,Gold Coast,85,0
+2021R302,2021,R3,2-Apr-21,Docklands,4:20 PM,28483,North Melbourne,39,Western Bulldogs,167,0
+2021R301,2021,R3,1-Apr-21,Docklands,7:40 PM,28057,Collingwood,72,Brisbane Lions,73,0
+2021R2309,2021,R23,22-Aug-21,Adelaide Oval,4:10 PM,13103,Adelaide,98,North Melbourne,54,0
+2021R2308,2021,R23,22-Aug-21,M.C.G.,3:20 PM,0,Essendon,102,Collingwood,64,0
+2021R2307,2021,R23,22-Aug-21,Bellerive Oval,12:15 PM,3082,St Kilda,107,Fremantle,49,0
+2021R2306,2021,R23,21-Aug-21,Docklands,7:40 PM,0,Carlton,75,Greater Western Sydney,89,1.4
+2021R2305,2021,R23,21-Aug-21,Kardinia Park,7:25 PM,0,Geelong,77,Melbourne,81,0
+2021R2304,2021,R23,21-Aug-21,Gabba,4:35 PM,21845,Brisbane Lions,125,West Coast,87,0
+2021R2303,2021,R23,21-Aug-21,Docklands,1:45 PM,0,Sydney,136,Gold Coast,49,1.4
+2021R2302,2021,R23,21-Aug-21,M.C.G.,1:35 PM,0,Richmond,83,Hawthorn,83,1.4
+2021R2301,2021,R23,20-Aug-21,Docklands,7:50 PM,0,Western Bulldogs,64,Port Adelaide,66,0.8
+2021R2209,2021,R22,15-Aug-21,Perth Stadium,3:10 PM,51692,Fremantle,79,West Coast,64,0
+2021R2208,2021,R22,15-Aug-21,Kardinia Park,3:20 PM,0,Gold Coast,30,Essendon,98,0
+2021R2207,2021,R22,15-Aug-21,M.C.G.,2:10 PM,0,Melbourne,104,Adelaide,63,0
+2021R2206,2021,R22,14-Aug-21,Docklands,7:40 PM,0,North Melbourne,77,Sydney,91,4
+2021R2205,2021,R22,14-Aug-21,Gabba,7:25 PM,15146,Brisbane Lions,142,Collingwood,57,1.8
+2021R2204,2021,R22,14-Aug-21,Kardinia Park,4:35 PM,0,Geelong,85,St Kilda,71,0
+2021R2203,2021,R22,14-Aug-21,Adelaide Oval,4:05 PM,13943,Port Adelaide,140,Carlton,45,0.2
+2021R2202,2021,R22,14-Aug-21,York Park,1:45 PM,7822,Hawthorn,64,Western Bulldogs,37,0
+2021R2201,2021,R22,13-Aug-21,Docklands,7:50 PM,0,Greater Western Sydney,106,Richmond,67,0
+2021R2109,2021,R21,9-Aug-21,Perth Stadium,6:10 PM,31584,West Coast,63,Melbourne,72,5.2
+2021R2108,2021,R21,8-Aug-21,Perth Stadium,3:10 PM,29589,Fremantle,54,Brisbane Lions,118,3.8
+2021R2107,2021,R21,8-Aug-21,Docklands,3:20 PM,0,Western Bulldogs,84,Essendon,97,1
+2021R2106,2021,R21,8-Aug-21,M.C.G.,2:10 PM,0,Hawthorn,97,Collingwood,78,1
+2021R2105,2021,R21,7-Aug-21,Docklands,7:40 PM,0,St Kilda,93,Sydney,64,0.6
+2021R2104,2021,R21,7-Aug-21,Adelaide Oval,7:10 PM,14736,Adelaide,51,Port Adelaide,55,1.4
+2021R2103,2021,R21,7-Aug-21,M.C.G.,4:35 PM,0,Richmond,89,North Melbourne,56,0.6
+2021R2102,2021,R21,7-Aug-21,Docklands,1:45 PM,0,Carlton,57,Gold Coast,76,0.6
+2021R2101,2021,R21,6-Aug-21,Kardinia Park,7:50 PM,0,Geelong,65,Greater Western Sydney,84,0.2
+2021R209,2021,R2,28-Mar-21,Perth Stadium,3:10 PM,27625,Fremantle,87,Greater Western Sydney,56,0
+2021R208,2021,R2,28-Mar-21,Docklands,3:20 PM,21391,Western Bulldogs,100,West Coast,93,0.1
+2021R207,2021,R2,28-Mar-21,M.C.G.,1:10 PM,41051,Hawthorn,49,Richmond,78,0.1
+2021R206,2021,R2,27-Mar-21,Carrara,7:10 PM,6661,Gold Coast,98,North Melbourne,39,0
+2021R205,2021,R2,27-Mar-21,Docklands,7:25 PM,25903,St Kilda,73,Melbourne,91,4.2
+2021R204,2021,R2,27-Mar-21,Adelaide Oval,4:05 PM,29978,Port Adelaide,119,Essendon,65,3.8
+2021R203,2021,R2,27-Mar-21,S.C.G.,1:45 PM,23946,Sydney,121,Adelaide,88,0
+2021R202,2021,R2,26-Mar-21,Kardinia Park,7:50 PM,20070,Geelong,81,Brisbane Lions,80,0.4
+2021R201,2021,R2,25-Mar-21,M.C.G.,7:20 PM,51723,Carlton,85,Collingwood,106,3.8
+2021R2009,2021,R20,1-Aug-21,Docklands,6:10 PM,0,Greater Western Sydney,73,Port Adelaide,100,19.2
+2021R2008,2021,R20,1-Aug-21,Perth Stadium,3:10 PM,24979,Fremantle,55,Richmond,51,8.8
+2021R2007,2021,R20,1-Aug-21,M.C.G.,3:10 PM,0,Essendon,102,Sydney,109,19.2
+2021R2006,2021,R20,1-Aug-21,York Park,2:10 PM,5381,Hawthorn,92,Brisbane Lions,80,13
+2021R2005,2021,R20,1-Aug-21,Docklands,12:10 PM,0,Gold Coast,30,Melbourne,128,19.2
+2021R2004,2021,R20,31-Jul-21,M.C.G.,4:15 PM,0,Collingwood,90,West Coast,45,0
+2021R2003,2021,R20,31-Jul-21,Bellerive Oval,1:15 PM,8033,North Melbourne,42,Geelong,62,0.4
+2021R2002,2021,R20,31-Jul-21,Eureka Stadium,12:20 PM,0,Western Bulldogs,105,Adelaide,56,0.2
+2021R2001,2021,R20,30-Jul-21,Docklands,7:50 PM,0,St Kilda,81,Carlton,112,0
+2021R1909,2021,R19,25-Jul-21,Carrara,6:10 PM,2681,Essendon,53,Greater Western Sydney,66,0
+2021R1908,2021,R19,25-Jul-21,M.C.G.,3:20 PM,0,Geelong,95,Richmond,57,0
+2021R1907,2021,R19,25-Jul-21,Carrara,12:30 PM,2875,Sydney,98,Fremantle,58,0
+2021R1906,2021,R19,24-Jul-21,Docklands,7:40 PM,0,Adelaide,102,Hawthorn,83,0
+2021R1905,2021,R19,24-Jul-21,M.C.G.,7:25 PM,0,Melbourne,65,Western Bulldogs,85,0
+2021R1904,2021,R19,24-Jul-21,Perth Stadium,2:35 PM,43657,West Coast,94,St Kilda,86,2
+2021R1903,2021,R19,24-Jul-21,Gabba,3:10 PM,16660,Brisbane Lions,120,Gold Coast,71,4.2
+2021R1902,2021,R19,24-Jul-21,Docklands,1:45 PM,0,Carlton,77,North Melbourne,116,0
+2021R1901,2021,R19,23-Jul-21,Docklands,7:10 PM,0,Port Adelaide,97,Collingwood,69,0
+2021R1809,2021,R18,18-Jul-21,Carrara,6:10 PM,2374,Greater Western Sydney,72,Sydney,98,0
+2021R1808,2021,R18,18-Jul-21,Adelaide Oval,4:10 PM,24554,Adelaide,56,West Coast,98,0.8
+2021R1807,2021,R18,18-Jul-21,M.C.G.,3:20 PM,0,Collingwood,62,Carlton,91,4.4
+2021R1806,2021,R18,18-Jul-21,Carrara,12:35 PM,5114,North Melbourne,74,Essendon,92,0
+2021R1805,2021,R18,17-Jul-21,M.C.G.,7:25 PM,0,Melbourne,79,Hawthorn,79,0.8
+2021R1804,2021,R18,17-Jul-21,Carrara,4:35 PM,8244,Gold Coast,79,Western Bulldogs,90,0.4
+2021R1803,2021,R18,17-Jul-21,Docklands,1:45 PM,0,St Kilda,61,Port Adelaide,74,0.8
+2021R1802,2021,R18,16-Jul-21,Carrara,8:05 PM,4119,Richmond,106,Brisbane Lions,86,0.4
+2021R1801,2021,R18,15-Jul-21,Perth Stadium,6:10 PM,35271,Fremantle,31,Geelong,100,2
+2021R1709,2021,R17,12-Jul-21,Perth Stadium,5:40 PM,30515,West Coast,60,North Melbourne,70,9.6
+2021R1708,2021,R17,11-Jul-21,M.C.G.,4:10 PM,29437,Richmond,71,Collingwood,87,0
+2021R1707,2021,R17,11-Jul-21,Docklands,3:20 PM,24817,Western Bulldogs,60,Sydney,79,0
+2021R1706,2021,R17,11-Jul-21,Eureka Stadium,12:40 PM,2952,Greater Western Sydney,64,Gold Coast,65,0.2
+2021R1705,2021,R17,10-Jul-21,Carrara,7:25 PM,9075,Brisbane Lions,63,St Kilda,95,1.6
+2021R1704,2021,R17,10-Jul-21,M.C.G.,4:35 PM,31834,Carlton,44,Geelong,70,0
+2021R1703,2021,R17,10-Jul-21,York Park,1:45 PM,9111,Hawthorn,46,Fremantle,108,0
+2021R1702,2021,R17,9-Jul-21,Docklands,7:50 PM,23604,Essendon,84,Adelaide,21,0
+2021R1701,2021,R17,8-Jul-21,Adelaide Oval,7:10 PM,30908,Port Adelaide,55,Melbourne,86,0
+2021R1609,2021,R16,4-Jul-21,Docklands,4:40 PM,18216,Western Bulldogs,108,North Melbourne,79,0.4
+2021R1608,2021,R16,4-Jul-21,M.C.G.,3:20 PM,18082,Collingwood,61,St Kilda,70,0.4
+2021R1607,2021,R16,4-Jul-21,Kardinia Park,1:10 PM,9520,Sydney,118,West Coast,26,1
+2021R1606,2021,R16,3-Jul-21,Docklands,7:40 PM,18251,Hawthorn,53,Port Adelaide,87,7
+2021R1605,2021,R16,3-Jul-21,M.C.G.,7:40 PM,12103,Fremantle,64,Carlton,80,7
+2021R1604,2021,R16,3-Jul-21,Adelaide Oval,4:05 PM,16178,Adelaide,59,Brisbane Lions,111,6.6
+2021R1603,2021,R16,3-Jul-21,M.C.G.,1:45 PM,16963,Melbourne,55,Greater Western Sydney,64,7
+2021R1602,2021,R16,2-Jul-21,Kardinia Park,7:50 PM,15579,Geelong,98,Essendon,57,0.6
+2021R1601,2021,R16,1-Jul-21,Docklands,7:20 PM,9327,Gold Coast,77,Richmond,67,0
+2021R1509,2021,R15,27-Jun-21,Docklands,4:10 PM,14930,Carlton,83,Adelaide,73,0.2
+2021R1508,2021,R15,27-Jun-21,Perth Stadium,1:20 PM,0,West Coast,43,Western Bulldogs,98,0
+2021R1507,2021,R15,27-Jun-21,M.C.G.,1:10 PM,9897,Greater Western Sydney,72,Hawthorn,90,0.2
+2021R1506,2021,R15,26-Jun-21,M.C.G.,7:25 PM,19414,Essendon,57,Melbourne,68,4.3
+2021R1505,2021,R15,26-Jun-21,Adelaide Oval,4:05 PM,29631,Port Adelaide,81,Sydney,71,2.2
+2021R1504,2021,R15,26-Jun-21,Bellerive Oval,1:45 PM,6719,North Melbourne,72,Gold Coast,63,0
+2021R1503,2021,R15,26-Jun-21,Docklands,1:45 PM,11570,Collingwood,79,Fremantle,91,4.3
+2021R1502,2021,R15,25-Jun-21,M.C.G.,7:50 PM,14787,Richmond,22,St Kilda,62,0
+2021R1501,2021,R15,24-Jun-21,Gabba,7:30 PM,29024,Brisbane Lions,94,Geelong,50,0.8
+2021R1405,2021,R14,20-Jun-21,York Park,3:20 PM,14834,Hawthorn,73,Essendon,86,0
+2021R1404,2021,R14,19-Jun-21,Sydney Showground,7:25 PM,7035,Greater Western Sydney,102,Carlton,66,2.4
+2021R1403,2021,R14,19-Jun-21,Bellerive Oval,4:35 PM,5060,North Melbourne,45,Brisbane Lions,68,0.6
+2021R1402,2021,R14,19-Jun-21,Carrara,1:45 PM,7117,Gold Coast,31,Port Adelaide,81,0
+2021R1401,2021,R14,18-Jun-21,Kardinia Park,7:50 PM,6583,Geelong,83,Western Bulldogs,78,0
+2021R1307,2021,R13,14-Jun-21,S.C.G.,3:20 PM,16453,Melbourne,63,Collingwood,80,0
+2021R1306,2021,R13,13-Jun-21,Perth Stadium,5:20 PM,50834,West Coast,85,Richmond,81,0
+2021R1305,2021,R13,13-Jun-21,Bellerive Oval,3:20 PM,3462,North Melbourne,94,Greater Western Sydney,94,3.4
+2021R1304,2021,R13,12-Jun-21,Cazaly's Stadium,7:25 PM,5969,St Kilda,60,Adelaide,66,
+2021R1303,2021,R13,12-Jun-21,Perth Stadium,2:15 PM,27318,Fremantle,76,Gold Coast,49,0.2
+2021R1302,2021,R13,11-Jun-21,S.C.G.,7:50 PM,25904,Sydney,51,Hawthorn,89,5.6
+2021R1301,2021,R13,10-Jun-21,Adelaide Oval,7:10 PM,28718,Port Adelaide,91,Geelong,112,0
+2021R1206,2021,R12,6-Jun-21,Perth Stadium,4:40 PM,32875,Fremantle,65,Western Bulldogs,93,0
+2021R1205,2021,R12,6-Jun-21,S.C.G.,3:20 PM,5137,Carlton,73,West Coast,95,0
+2021R1204,2021,R12,5-Jun-21,Perth Stadium,5:40 PM,55656,Essendon,84,Richmond,123,0
+2021R1203,2021,R12,5-Jun-21,Adelaide Oval,4:05 PM,30446,Adelaide,73,Collingwood,78,0.2
+2021R1202,2021,R12,5-Jun-21,S.C.G.,1:45 PM,19020,Sydney,92,St Kilda,83,0.2
+2021R1201,2021,R12,4-Jun-21,Sydney Showground,7:50 PM,3772,Melbourne,97,Brisbane Lions,75,7
+2021R1109,2021,R11,30-May-21,Adelaide Oval,4:50 PM,26759,Port Adelaide,115,Fremantle,69,0
+2021R1108,2021,R11,30-May-21,S.C.G.,3:20 PM,29882,Sydney,100,Carlton,78,0.2
+2021R1107,2021,R11,30-May-21,Sydney Showground,2:10 PM,4236,Richmond,111,Adelaide,83,0
+2021R1106,2021,R11,29-May-21,S.C.G.,7:40 PM,1241,Gold Coast,113,Hawthorn,76,0
+2021R1105,2021,R11,29-May-21,Perth Stadium,5:40 PM,41883,West Coast,71,Essendon,87,11.4
+2021R1104,2021,R11,29-May-21,Docklands,4:35 PM,0,St Kilda,88,North Melbourne,68,0
+2021R1103,2021,R11,29-May-21,Gabba,2:10 PM,22038,Brisbane Lions,129,Greater Western Sydney,65,0
+2021R1102,2021,R11,29-May-21,M.C.G.,1:45 PM,0,Collingwood,51,Geelong,61,0
+2021R1101,2021,R11,28-May-21,Docklands,7:50 PM,0,Western Bulldogs,59,Melbourne,87,0.4
+2021R109,2021,R1,21-Mar-21,Perth Stadium,3:10 PM,38493,West Coast,83,Gold Coast,58,0
+2021R108,2021,R1,21-Mar-21,Sydney Showground,3:20 PM,5014,Greater Western Sydney,78,St Kilda,86,114.4
+2021R107,2021,R1,21-Mar-21,Docklands,1:10 PM,13050,North Melbourne,65,Port Adelaide,117,3.2
+2021R106,2021,R1,20-Mar-21,Gabba,6:45 PM,22762,Brisbane Lions,94,Sydney,125,20.8
+2021R105,2021,R1,20-Mar-21,Docklands,7:25 PM,25128,Essendon,91,Hawthorn,92,0
+2021R104,2021,R1,20-Mar-21,Adelaide Oval,4:05 PM,26985,Adelaide,103,Geelong,91,0
+2021R103,2021,R1,20-Mar-21,M.C.G.,1:45 PM,21365,Melbourne,80,Fremantle,58,0
+2021R102,2021,R1,19-Mar-21,M.C.G.,7:50 PM,46051,Collingwood,53,Western Bulldogs,69,0
+2021R101,2021,R1,18-Mar-21,M.C.G.,7:25 PM,49218,Richmond,105,Carlton,80,0
+2021R1009,2021,R10,23-May-21,Docklands,4:40 PM,33121,Essendon,141,North Melbourne,69,0
+2021R1008,2021,R10,23-May-21,M.C.G.,3:20 PM,23415,Collingwood,58,Port Adelaide,59,0
+2021R1007,2021,R10,23-May-21,Sydney Showground,1:10 PM,9046,Greater Western Sydney,93,West Coast,77,0
+2021R1006,2021,R10,22-May-21,Perth Stadium,5:40 PM,29134,Fremantle,86,Sydney,84,0
+2021R1005,2021,R10,22-May-21,Docklands,7:25 PM,28720,Western Bulldogs,144,St Kilda,33,0
+2021R1004,2021,R10,22-May-21,Adelaide Oval,4:05 PM,31373,Adelaide,96,Melbourne,95,0
+2021R1003,2021,R10,22-May-21,Kardinia Park,2:10 PM,22055,Geelong,91,Gold Coast,57,0
+2021R1002,2021,R10,22-May-21,M.C.G.,1:45 PM,45741,Carlton,86,Hawthorn,63,0
+2021R1001,2021,R10,21-May-21,Gabba,7:50 PM,31127,Brisbane Lions,102,Richmond,74,0
+2021QF02,2021,QF,28-Aug-21,Adelaide Oval,7:00 PM,13784,Melbourne,93,Brisbane Lions,60,0
+2021QF01,2021,QF,27-Aug-21,Adelaide Oval,7:20 PM,19712,Port Adelaide,86,Geelong,43,0
+2021PF02,2021,PF,11-Sep-21,Adelaide Oval,7:10 PM,26400,Port Adelaide,45,Western Bulldogs,116,0
+2021PF01,2021,PF,10-Sep-21,Perth Stadium,5:50 PM,58599,Melbourne,125,Geelong,42,3.2
+2021GF01,2021,GF,25-Sep-21,Perth Stadium,5:15 PM,61118,Melbourne,140,Western Bulldogs,66,0
+2021EF02,2021,EF,29-Aug-21,York Park,3:20 PM,9760,Western Bulldogs,85,Essendon,36,0
+2021EF01,2021,EF,28-Aug-21,York Park,3:20 PM,8635,Sydney,73,Greater Western Sydney,74,0
+2020SF02,2020,SF,10-Oct-20,Gabba,6:40 PM,21396,Geelong,100,Collingwood,32,0
+2020SF01,2020,SF,9-Oct-20,Carrara,6:50 PM,13778,Richmond,80,St Kilda,49,0
+2020R909,2020,R9,2-Aug-20,Perth Stadium,4:10 PM,20912,Fremantle,61,Collingwood,49,0
+2020R908,2020,R9,2-Aug-20,Carrara,3:35 PM,4363,Gold Coast,35,Greater Western Sydney,61,0
+2020R907,2020,R9,1-Aug-20,Perth Stadium,6:10 PM,26211,West Coast,73,Geelong,64,0
+2020R906,2020,R9,1-Aug-20,Gabba,5:10 PM,2978,St Kilda,101,Sydney,48,0
+2020R905,2020,R9,1-Aug-20,Carrara,2:35 PM,522,North Melbourne,119,Adelaide,50,0
+2020R904,2020,R9,31-Jul-20,Carrara,8:10 PM,4860,Essendon,28,Brisbane Lions,91,0
+2020R903,2020,R9,31-Jul-20,Perth Stadium,3:40 PM,12304,Carlton,58,Hawthorn,89,0
+2020R902,2020,R9,30-Jul-20,Gabba,7:50 PM,323,Melbourne,32,Port Adelaide,83,0
+2020R901,2020,R9,29-Jul-20,Carrara,7:10 PM,2824,Western Bulldogs,49,Richmond,90,0
+2020R809,2020,R8,27-Jul-20,Perth Stadium,6:10 PM,20251,Fremantle,16,Geelong,48,4.8
+2020R808,2020,R8,26-Jul-20,Carrara,6:10 PM,3011,Melbourne,49,Brisbane Lions,53,100.2
+2020R807,2020,R8,26-Jul-20,Perth Stadium,1:35 PM,24824,West Coast,111,Collingwood,45,2.2
+2020R806,2020,R8,26-Jul-20,Adelaide Oval,12:35 PM,15155,Adelaide,59,Essendon,62,0
+2020R805,2020,R8,25-Jul-20,Adelaide Oval,7:10 PM,16727,Port Adelaide,44,St Kilda,73,0
+2020R804,2020,R8,25-Jul-20,S.C.G.,3:35 PM,4264,Sydney,60,Hawthorn,53,0
+2020R803,2020,R8,25-Jul-20,Gabba,1:05 PM,3655,North Melbourne,57,Carlton,64,3.2
+2020R802,2020,R8,24-Jul-20,Sydney Showground,7:50 PM,5500,Greater Western Sydney,62,Richmond,50,0
+2020R801,2020,R8,23-Jul-20,Carrara,7:40 PM,4039,Gold Coast,46,Western Bulldogs,51,0
+2020R709,2020,R7,20-Jul-20,Adelaide Oval,7:10 PM,13579,Adelaide,55,St Kilda,78,0.2
+2020R708,2020,R7,19-Jul-20,Perth Stadium,4:35 PM,25306,Fremantle,32,West Coast,62,0.4
+2020R707,2020,R7,19-Jul-20,Sydney Showground,3:35 PM,750,Hawthorn,48,Melbourne,91,0
+2020R706,2020,R7,19-Jul-20,Gabba,1:05 PM,3510,Carlton,61,Port Adelaide,64,0
+2020R705,2020,R7,18-Jul-20,Carrara,7:40 PM,4337,Richmond,77,North Melbourne,23,0
+2020R704,2020,R7,18-Jul-20,S.C.G.,4:35 PM,6000,Sydney,60,Gold Coast,92,2.8
+2020R703,2020,R7,18-Jul-20,Sydney Showground,1:45 PM,3168,Greater Western Sydney,68,Brisbane Lions,88,0
+2020R702,2020,R7,17-Jul-20,Carrara,7:50 PM,4949,Essendon,51,Western Bulldogs,93,0
+2020R701,2020,R7,16-Jul-20,Perth Stadium,6:10 PM,22077,Geelong,35,Collingwood,57,1
+2020R609,2020,R6,12-Jul-20,Carrara,6:45 PM,2178,Carlton,103,Western Bulldogs,51,0
+2020R608,2020,R6,12-Jul-20,Gabba,3:35 PM,3606,Richmond,34,Sydney,26,0.2
+2020R607,2020,R6,12-Jul-20,Carrara,1:05 PM,368,Port Adelaide,63,Greater Western Sydney,46,0
+2020R606,2020,R6,11-Jul-20,Carrara,7:40 PM,4271,Essendon,67,North Melbourne,53,0.8
+2020R605,2020,R6,11-Jul-20,Sydney Showground,6:05 PM,250,Melbourne,80,Gold Coast,63,3.6
+2020R604,2020,R6,11-Jul-20,Gabba,3:05 PM,210,West Coast,67,Adelaide,34,0.6
+2020R603,2020,R6,11-Jul-20,Carrara,12:35 PM,638,Fremantle,79,St Kilda,73,0.8
+2020R602,2020,R6,10-Jul-20,Sydney Showground,7:50 PM,1772,Collingwood,59,Hawthorn,27,0.2
+2020R601,2020,R6,9-Jul-20,S.C.G.,7:40 PM,1311,Geelong,73,Brisbane Lions,46,0.2
+2020R509,2020,R5,5-Jul-20,Sydney Showground,6:10 PM,5674,Greater Western Sydney,83,Hawthorn,49,0
+2020R508,2020,R5,5-Jul-20,M.C.G.,3:35 PM,0,Melbourne,52,Richmond,79,5.2
+2020R507,2020,R5,5-Jul-20,Carrara,1:05 PM,418,Adelaide,34,Fremantle,54,0
+2020R506,2020,R5,4-Jul-20,Gabba,7:40 PM,10161,Brisbane Lions,85,Port Adelaide,48,0
+2020R505,2020,R5,4-Jul-20,Docklands,7:40 PM,0,Western Bulldogs,87,North Melbourne,38,8.8
+2020R504,2020,R5,4-Jul-20,Kardinia Park,4:35 PM,0,Geelong,89,Gold Coast,52,7.2
+2020R503,2020,R5,4-Jul-20,Carrara,1:45 PM,2238,West Coast,77,Sydney,43,0.8
+2020R502,2020,R5,3-Jul-20,M.C.G.,7:50 PM,0,Collingwood,48,Essendon,63,0.2
+2020R501,2020,R5,2-Jul-20,Docklands,7:40 PM,0,Carlton,55,St Kilda,73,1.2
+2020R409,2020,R4,28-Jun-20,Docklands,6:10 PM,0,Hawthorn,58,North Melbourne,54,0
+2020R408,2020,R4,28-Jun-20,M.C.G.,3:35 PM,0,Melbourne,44,Geelong,47,0
+2020R407,2020,R4,28-Jun-20,Gabba,1:05 PM,7354,Brisbane Lions,83,Adelaide,46,0.4
+2020R406,2020,R4,27-Jun-20,Carrara,7:40 PM,5106,Gold Coast,64,Fremantle,51,0
+2020R405,2020,R4,27-Jun-20,M.C.G.,7:40 PM,0,Essendon,51,Carlton,52,0
+2020R404,2020,R4,27-Jun-20,Docklands,4:35 PM,0,St Kilda,93,Richmond,67,0
+2020R403,2020,R4,27-Jun-20,Carrara,1:45 PM,450,Port Adelaide,89,West Coast,41,0
+2020R402,2020,R4,26-Jun-20,Sydney Showground,7:50 PM,487,Greater Western Sydney,66,Collingwood,64,0
+2020R401,2020,R4,25-Jun-20,S.C.G.,7:40 PM,605,Sydney,39,Western Bulldogs,67,1
+2020R308,2020,R3,21-Jun-20,Carrara,8:10 PM,180,Fremantle,41,Port Adelaide,70,0
+2020R307,2020,R3,21-Jun-20,Carrara,3:05 PM,1997,Gold Coast,82,Adelaide,29,0
+2020R306,2020,R3,20-Jun-20,Gabba,7:40 PM,1965,Brisbane Lions,74,West Coast,44,1.8
+2020R305,2020,R3,20-Jun-20,Kardinia Park,7:40 PM,0,Geelong,77,Carlton,79,1.2
+2020R304,2020,R3,20-Jun-20,M.C.G.,4:35 PM,0,Collingwood,81,St Kilda,37,2
+2020R303,2020,R3,20-Jun-20,Docklands,1:45 PM,0,North Melbourne,60,Sydney,71,2
+2020R302,2020,R3,19-Jun-20,Docklands,7:50 PM,0,Western Bulldogs,57,Greater Western Sydney,33,0
+2020R301,2020,R3,18-Jun-20,M.C.G.,7:40 PM,0,Richmond,39,Hawthorn,71,0
+2020R209,2020,R2,14-Jun-20,Docklands,6:05 PM,0,St Kilda,88,Western Bulldogs,49,5.8
+2020R208,2020,R2,14-Jun-20,S.C.G.,3:35 PM,337,Sydney,73,Essendon,79,11
+2020R207,2020,R2,14-Jun-20,Sydney Showground,1:05 PM,350,Greater Western Sydney,60,North Melbourne,80,7.4
+2020R206,2020,R2,13-Jun-20,Carrara,7:40 PM,0,Gold Coast,90,West Coast,46,0
+2020R205,2020,R2,13-Jun-20,Adelaide Oval,7:10 PM,2240,Port Adelaide,110,Adelaide,35,0.6
+2020R204,2020,R2,13-Jun-20,Docklands,4:35 PM,0,Carlton,53,Melbourne,54,0
+2020R203,2020,R2,13-Jun-20,Gabba,1:45 PM,0,Brisbane Lions,81,Fremantle,69,0
+2020R202,2020,R2,12-Jun-20,Kardinia Park,7:50 PM,0,Geelong,108,Hawthorn,47,0
+2020R201,2020,R2,11-Jun-20,M.C.G.,7:40 PM,0,Collingwood,36,Richmond,36,0
+2020R1809,2020,R18,21-Sep-20,Gabba,7:15 PM,5424,Collingwood,45,Port Adelaide,61,0
+2020R1808,2020,R18,20-Sep-20,Cazaly's Stadium,6:10 PM,3114,Fremantle,44,Western Bulldogs,74,0.2
+2020R1807,2020,R18,20-Sep-20,Carrara,3:35 PM,2798,Sydney,63,Geelong,69,0
+2020R1806,2020,R18,20-Sep-20,Adelaide Oval,12:35 PM,2136,Hawthorn,108,Gold Coast,57,0
+2020R1805,2020,R18,19-Sep-20,Gabba,7:40 PM,14563,Brisbane Lions,78,Carlton,61,0.4
+2020R1804,2020,R18,19-Sep-20,Adelaide Oval,4:40 PM,17710,Adelaide,33,Richmond,77,0
+2020R1803,2020,R18,19-Sep-20,Carrara,2:10 PM,2175,Essendon,49,Melbourne,68,18.4
+2020R1802,2020,R18,18-Sep-20,Gabba,7:50 PM,1528,St Kilda,82,Greater Western Sydney,30,0
+2020R1801,2020,R18,17-Sep-20,Carrara,7:10 PM,724,North Melbourne,34,West Coast,49,0
+2020R1709,2020,R17,14-Sep-20,Gabba,7:10 PM,2896,Collingwood,68,Gold Coast,46,0.8
+2020R1708,2020,R17,13-Sep-20,Cazaly's Stadium,6:10 PM,3700,Sydney,41,Brisbane Lions,73,1.6
+2020R1707,2020,R17,13-Sep-20,Adelaide Oval,3:05 PM,2625,Hawthorn,40,Western Bulldogs,76,9.2
+2020R1706,2020,R17,13-Sep-20,Carrara,1:05 PM,2735,Carlton,56,Adelaide,72,7.8
+2020R1705,2020,R17,12-Sep-20,Gabba,7:40 PM,1204,Greater Western Sydney,74,Melbourne,79,0.2
+2020R1704,2020,R17,12-Sep-20,Adelaide Oval,4:35 PM,17482,Port Adelaide,79,Essendon,29,0
+2020R1703,2020,R17,12-Sep-20,Carrara,2:10 PM,308,North Melbourne,35,Fremantle,99,0.2
+2020R1702,2020,R17,11-Sep-20,Carrara,7:50 PM,7061,Geelong,31,Richmond,57,12
+2020R1701,2020,R17,10-Sep-20,Gabba,7:10 PM,1925,St Kilda,50,West Coast,65,0
+2020R1608,2020,R16,9-Sep-20,Gabba,7:10 PM,11292,Brisbane Lions,88,Gold Coast,43,0
+2020R1607,2020,R16,8-Sep-20,Carrara,8:10 PM,1580,Carlton,57,Sydney,52,0
+2020R1606,2020,R16,8-Sep-20,Adelaide Oval,5:10 PM,12436,Adelaide,59,Greater Western Sydney,47,0
+2020R1605,2020,R16,7-Sep-20,Cazaly's Stadium,7:10 PM,3279,Melbourne,33,Fremantle,47,6
+2020R1604,2020,R16,6-Sep-20,Carrara,6:10 PM,532,Western Bulldogs,49,West Coast,47,0
+2020R1603,2020,R16,6-Sep-20,Gabba,3:35 PM,5011,Geelong,108,Essendon,42,0
+2020R1602,2020,R16,6-Sep-20,Carrara,1:05 PM,2740,St Kilda,80,Hawthorn,66,0
+2020R1601,2020,R16,5-Sep-20,Carrara,7:40 PM,592,North Melbourne,42,Port Adelaide,78,0
+2020R1506,2020,R15,4-Sep-20,Gabba,7:50 PM,15036,Brisbane Lions,42,Collingwood,34,0
+2020R1505,2020,R15,3-Sep-20,Carrara,7:10 PM,1469,Greater Western Sydney,48,Carlton,39,0
+2020R1504,2020,R15,3-Sep-20,Cazaly's Stadium,4:40 PM,3199,Sydney,67,Melbourne,46,0
+2020R1503,2020,R15,2-Sep-20,Carrara,7:10 PM,1818,Richmond,56,Fremantle,29,0
+2020R1502,2020,R15,1-Sep-20,Gabba,8:10 PM,1932,West Coast,60,Essendon,45,0
+2020R1501,2020,R15,1-Sep-20,Adelaide Oval,5:10 PM,6191,Hawthorn,48,Adelaide,83,0
+2020R1408,2020,R14,30-Aug-20,Carrara,6:10 PM,3353,Gold Coast,91,North Melbourne,28,1.2
+2020R1407,2020,R14,30-Aug-20,Gabba,3:35 PM,9033,Carlton,48,Collingwood,72,0
+2020R1406,2020,R14,29-Aug-20,Traeger Park,7:10 PM,1917,Melbourne,52,St Kilda,49,
+2020R1405,2020,R14,29-Aug-20,Perth Stadium,2:35 PM,24406,Fremantle,53,Greater Western Sydney,91,2.8
+2020R1404,2020,R14,29-Aug-20,Adelaide Oval,1:15 PM,11801,Port Adelaide,73,Sydney,47,0
+2020R1403,2020,R14,28-Aug-20,Carrara,7:50 PM,2156,Western Bulldogs,61,Geelong,72,0
+2020R1402,2020,R14,27-Aug-20,Carrara,7:10 PM,3628,Richmond,88,West Coast,61,0
+2020R1401,2020,R14,27-Aug-20,Adelaide Oval,4:10 PM,4973,Hawthorn,71,Essendon,87,0
+2020R1309,2020,R13,24-Aug-20,Gabba,7:10 PM,2443,Collingwood,65,North Melbourne,35,0
+2020R1308,2020,R13,23-Aug-20,Perth Stadium,4:10 PM,27339,West Coast,61,Greater Western Sydney,49,1
+2020R1307,2020,R13,23-Aug-20,Gabba,3:35 PM,13750,Brisbane Lions,50,St Kilda,48,0
+2020R1306,2020,R13,23-Aug-20,Adelaide Oval,12:35 PM,10431,Adelaide,37,Geelong,65,0.4
+2020R1305,2020,R13,22-Aug-20,Perth Stadium,6:10 PM,24714,Fremantle,50,Sydney,19,0
+2020R1304,2020,R13,22-Aug-20,Marrara Oval,7:15 PM,5401,Essendon,61,Richmond,73,0
+2020R1303,2020,R13,22-Aug-20,Adelaide Oval,4:05 PM,11740,Port Adelaide,68,Hawthorn,58,3.8
+2020R1302,2020,R13,22-Aug-20,Carrara,1:45 PM,1765,Western Bulldogs,80,Melbourne,52,0
+2020R1301,2020,R13,21-Aug-20,Marrara Oval,7:20 PM,5172,Gold Coast,27,Carlton,60,0
+2020R1209,2020,R12,17-Aug-20,Gabba,7:10 PM,4062,Richmond,53,Gold Coast,32,0
+2020R1208,2020,R12,16-Aug-20,Perth Stadium,4:10 PM,22870,West Coast,81,Hawthorn,49,19.2
+2020R1207,2020,R12,16-Aug-20,Gabba,3:35 PM,4686,St Kilda,68,Essendon,33,6.4
+2020R1206,2020,R12,16-Aug-20,Carrara,1:05 PM,613,Western Bulldogs,111,Adelaide,54,0.2
+2020R1205,2020,R12,15-Aug-20,Perth Stadium,6:10 PM,24114,Fremantle,36,Carlton,40,0.6
+2020R1204,2020,R12,15-Aug-20,Gabba,5:10 PM,5338,Melbourne,100,Collingwood,44,1.4
+2020R1203,2020,R12,15-Aug-20,Carrara,2:35 PM,2722,North Melbourne,52,Brisbane Lions,53,2
+2020R1202,2020,R12,14-Aug-20,Carrara,7:50 PM,3378,Geelong,91,Port Adelaide,31,0
+2020R1201,2020,R12,13-Aug-20,Perth Stadium,6:10 PM,6464,Sydney,66,Greater Western Sydney,25,0
+2020R1108,2020,R11,12-Aug-20,Carrara,7:10 PM,4303,Gold Coast,73,Essendon,73,0
+2020R1107,2020,R11,11-Aug-20,Adelaide Oval,6:05 PM,8577,Adelaide,38,Collingwood,62,0.2
+2020R1106,2020,R11,10-Aug-20,Perth Stadium,6:40 PM,18512,Fremantle,48,Hawthorn,32,31
+2020R1105,2020,R11,10-Aug-20,Gabba,6:10 PM,3903,St Kilda,34,Geelong,93,0
+2020R1104,2020,R11,9-Aug-20,Adelaide Oval,5:40 PM,2172,Melbourne,92,North Melbourne,35,0
+2020R1103,2020,R11,9-Aug-20,Perth Stadium,1:35 PM,19092,West Coast,72,Carlton,50,4.4
+2020R1102,2020,R11,8-Aug-20,Gabba,7:40 PM,11061,Brisbane Lions,96,Western Bulldogs,72,11.6
+2020R1101,2020,R11,8-Aug-20,Adelaide Oval,4:05 PM,10256,Port Adelaide,93,Richmond,72,1.4
+2020R109,2020,R1,22-Mar-20,Perth Stadium,3:40 PM,0,West Coast,78,Melbourne,51,0
+2020R108,2020,R1,22-Mar-20,M.C.G.,3:35 PM,0,Hawthorn,90,Brisbane Lions,62,0.2
+2020R107,2020,R1,22-Mar-20,Docklands,1:05 PM,0,North Melbourne,56,St Kilda,54,0.2
+2020R106,2020,R1,21-Mar-20,Sydney Showground,7:40 PM,0,Greater Western Sydney,105,Geelong,73,0
+2020R105,2020,R1,21-Mar-20,Carrara,6:40 PM,0,Gold Coast,29,Port Adelaide,76,0
+2020R104,2020,R1,21-Mar-20,Adelaide Oval,4:35 PM,0,Adelaide,71,Sydney,74,0
+2020R103,2020,R1,21-Mar-20,Docklands,2:10 PM,0,Essendon,63,Fremantle,57,0.4
+2020R102,2020,R1,20-Mar-20,Docklands,7:50 PM,0,Western Bulldogs,34,Collingwood,86,0
+2020R101,2020,R1,19-Mar-20,M.C.G.,7:40 PM,0,Richmond,105,Carlton,81,0
+2020R1007,2020,R10,7-Aug-20,Carrara,7:50 PM,1178,Essendon,55,Greater Western Sydney,59,1
+2020R1006,2020,R10,6-Aug-20,Carrara,8:10 PM,3095,Gold Coast,74,St Kilda,78,0
+2020R1005,2020,R10,6-Aug-20,Gabba,5:40 PM,4146,Collingwood,50,Sydney,41,0
+2020R1004,2020,R10,5-Aug-20,Adelaide Oval,7:40 PM,12022,Adelaide,37,Melbourne,88,0
+2020R1003,2020,R10,5-Aug-20,Gabba,5:40 PM,2282,Geelong,90,North Melbourne,57,0
+2020R1002,2020,R10,4-Aug-20,Carrara,7:10 PM,5651,Richmond,82,Brisbane Lions,41,0
+2020R1001,2020,R10,3-Aug-20,Adelaide Oval,6:40 PM,14159,Port Adelaide,55,Western Bulldogs,42,0
+2020QF02,2020,QF,2-Oct-20,Gabba,7:50 PM,22104,Brisbane Lions,69,Richmond,54,0
+2020QF01,2020,QF,1-Oct-20,Adelaide Oval,7:10 PM,22755,Port Adelaide,58,Geelong,42,1.6
+2020PF02,2020,PF,17-Oct-20,Gabba,6:40 PM,29121,Brisbane Lions,42,Geelong,82,0
+2020PF01,2020,PF,16-Oct-20,Adelaide Oval,7:20 PM,24292,Port Adelaide,40,Richmond,46,0.2
+2020GF01,2020,GF,24-Oct-20,Gabba,6:30 PM,29707,Richmond,81,Geelong,50,0.4
+2020EF02,2020,EF,3-Oct-20,Perth Stadium,6:10 PM,32865,West Coast,75,Collingwood,76,2.8
+2020EF01,2020,EF,3-Oct-20,Gabba,4:40 PM,10561,St Kilda,67,Western Bulldogs,64,0
+2019SF02,2019,SF,14-Sep-19,Gabba,7:25 PM,30034,Brisbane Lions,80,Greater Western Sydney,83,0
+2019SF01,2019,SF,13-Sep-19,M.C.G.,7:50 PM,51813,Geelong,88,West Coast,68,0
+2019R909,2019,R9,19-May-19,Sydney Showground,4:40 PM,9599,Greater Western Sydney,138,Carlton,45,0
+2019R908,2019,R9,19-May-19,M.C.G.,3:20 PM,64936,Richmond,95,Hawthorn,59,0
+2019R907,2019,R9,19-May-19,Adelaide Oval,12:40 PM,26129,Port Adelaide,89,Gold Coast,51,0
+2019R906,2019,R9,18-May-19,Bellerive Oval,7:25 PM,12799,North Melbourne,72,Sydney,77,0
+2019R905,2019,R9,18-May-19,Docklands,7:25 PM,29176,Essendon,60,Fremantle,53,0
+2019R904,2019,R9,18-May-19,Kardinia Park,4:35 PM,31373,Geelong,133,Western Bulldogs,89,0
+2019R903,2019,R9,18-May-19,Gabba,2:10 PM,20405,Brisbane Lions,93,Adelaide,92,1.6
+2019R902,2019,R9,18-May-19,M.C.G.,1:45 PM,60702,Collingwood,112,St Kilda,71,0
+2019R901,2019,R9,17-May-19,Perth Stadium,6:10 PM,51162,West Coast,85,Melbourne,69,1.8
+2019R809,2019,R8,12-May-19,Perth Stadium,3:20 PM,42641,Fremantle,86,Richmond,111,0
+2019R808,2019,R8,12-May-19,M.C.G.,3:20 PM,14636,Hawthorn,71,Greater Western Sydney,38,0.1
+2019R807,2019,R8,12-May-19,Docklands,1:10 PM,21156,North Melbourne,80,Geelong,104,0.1
+2019R806,2019,R8,11-May-19,Adelaide Oval,7:10 PM,49675,Port Adelaide,68,Adelaide,88,1
+2019R805,2019,R8,11-May-19,Docklands,7:25 PM,24246,St Kilda,70,West Coast,88,9.8
+2019R804,2019,R8,11-May-19,Carrara,4:35 PM,9765,Gold Coast,60,Melbourne,61,0
+2019R803,2019,R8,11-May-19,Eureka Stadium,1:45 PM,9039,Western Bulldogs,92,Brisbane Lions,76,13
+2019R802,2019,R8,11-May-19,M.C.G.,1:45 PM,69289,Carlton,87,Collingwood,106,9.8
+2019R801,2019,R8,10-May-19,S.C.G.,7:50 PM,26502,Sydney,77,Essendon,72,0
+2019R709,2019,R7,5-May-19,Adelaide Oval,4:10 PM,42383,Adelaide,51,Fremantle,34,0
+2019R708,2019,R7,5-May-19,M.C.G.,3:20 PM,63527,Geelong,86,Essendon,54,2.2
+2019R707,2019,R7,5-May-19,Docklands,1:10 PM,42430,Carlton,62,North Melbourne,120,2.2
+2019R706,2019,R7,4-May-19,Perth Stadium,6:10 PM,47497,West Coast,80,Gold Coast,57,2
+2019R705,2019,R7,4-May-19,Docklands,7:25 PM,36151,Western Bulldogs,99,Richmond,52,0.4
+2019R704,2019,R7,4-May-19,Gabba,4:35 PM,20075,Brisbane Lions,103,Sydney,81,0
+2019R703,2019,R7,4-May-19,Manuka Oval,1:45 PM,12633,Greater Western Sydney,114,St Kilda,70,
+2019R702,2019,R7,4-May-19,M.C.G.,1:45 PM,40864,Melbourne,79,Hawthorn,74,0.4
+2019R701,2019,R7,3-May-19,Docklands,7:50 PM,37559,Collingwood,108,Port Adelaide,69,0.2
+2019R609,2019,R6,28-Apr-19,Kardinia Park,4:40 PM,28085,Geelong,104,West Coast,46,0
+2019R608,2019,R6,28-Apr-19,York Park,3:20 PM,15888,Hawthorn,93,Carlton,88,0
+2019R607,2019,R6,27-Apr-19,Perth Stadium,6:10 PM,43732,Fremantle,88,Western Bulldogs,69,0
+2019R606,2019,R6,27-Apr-19,S.C.G.,7:25 PM,29780,Sydney,79,Greater Western Sydney,120,0
+2019R605,2019,R6,27-Apr-19,Docklands,4:35 PM,28404,St Kilda,68,Adelaide,97,4
+2019R604,2019,R6,27-Apr-19,Carrara,1:45 PM,13694,Gold Coast,62,Brisbane Lions,111,0
+2019R603,2019,R6,26-Apr-19,Adelaide Oval,7:20 PM,36099,Port Adelaide,88,North Melbourne,72,0.2
+2019R602,2019,R6,25-Apr-19,M.C.G.,3:20 PM,92241,Essendon,69,Collingwood,73,0
+2019R601,2019,R6,24-Apr-19,M.C.G.,7:35 PM,72704,Richmond,85,Melbourne,42,0
+2019R509,2019,R5,22-Apr-19,M.C.G.,3:20 PM,66347,Hawthorn,90,Geelong,113,1
+2019R508,2019,R5,21-Apr-19,Adelaide Oval,4:10 PM,40847,Adelaide,119,Gold Coast,46,0.8
+2019R507,2019,R5,21-Apr-19,Docklands,1:10 PM,35069,Western Bulldogs,57,Carlton,101,0
+2019R506,2019,R5,20-Apr-19,Docklands,7:25 PM,40053,Richmond,89,Sydney,67,0
+2019R505,2019,R5,20-Apr-19,M.C.G.,4:35 PM,35558,Melbourne,55,St Kilda,95,0
+2019R504,2019,R5,20-Apr-19,Manuka Oval,1:45 PM,11277,Greater Western Sydney,82,Fremantle,106,0
+2019R503,2019,R5,19-Apr-19,Perth Stadium,6:10 PM,49290,West Coast,53,Port Adelaide,95,23.4
+2019R502,2019,R5,19-Apr-19,Docklands,4:20 PM,48278,North Melbourne,58,Essendon,116,0
+2019R501,2019,R5,18-Apr-19,Gabba,7:35 PM,34017,Brisbane Lions,61,Collingwood,123,0.2
+2019R409,2019,R4,14-Apr-19,Docklands,3:20 PM,35883,St Kilda,74,Hawthorn,69,0
+2019R408,2019,R4,14-Apr-19,Carrara,2:40 PM,14176,Gold Coast,59,Carlton,57,0.2
+2019R407,2019,R4,13-Apr-19,Perth Stadium,6:10 PM,58219,West Coast,69,Fremantle,56,0
+2019R406,2019,R4,13-Apr-19,Docklands,7:25 PM,17207,North Melbourne,71,Adelaide,59,0
+2019R405,2019,R4,13-Apr-19,Adelaide Oval,4:05 PM,38864,Port Adelaide,92,Richmond,99,0
+2019R404,2019,R4,13-Apr-19,M.C.G.,2:10 PM,48289,Essendon,112,Brisbane Lions,65,0
+2019R403,2019,R4,13-Apr-19,Kardinia Park,1:45 PM,28780,Geelong,75,Greater Western Sydney,79,0
+2019R402,2019,R4,12-Apr-19,M.C.G.,7:50 PM,59257,Collingwood,78,Western Bulldogs,64,0
+2019R401,2019,R4,11-Apr-19,S.C.G.,7:20 PM,26669,Sydney,78,Melbourne,100,0
+2019R309,2019,R3,7-Apr-19,Perth Stadium,3:20 PM,38227,Fremantle,71,St Kilda,66,0
+2019R308,2019,R3,7-Apr-19,M.C.G.,3:20 PM,36174,Hawthorn,87,North Melbourne,71,0
+2019R307,2019,R3,7-Apr-19,Docklands,2:20 PM,22499,Western Bulldogs,68,Gold Coast,73,0
+2019R306,2019,R3,6-Apr-19,M.C.G.,7:25 PM,60878,Collingwood,76,West Coast,98,0
+2019R305,2019,R3,6-Apr-19,Gabba,6:25 PM,19958,Brisbane Lions,107,Port Adelaide,90,0
+2019R304,2019,R3,6-Apr-19,Sydney Showground,4:35 PM,12697,Greater Western Sydney,125,Richmond,76,1.6
+2019R303,2019,R3,6-Apr-19,Docklands,1:45 PM,39290,Carlton,74,Sydney,93,0
+2019R302,2019,R3,5-Apr-19,M.C.G.,7:50 PM,52475,Melbourne,112,Essendon,130,0
+2019R301,2019,R3,4-Apr-19,Adelaide Oval,7:20 PM,45631,Adelaide,75,Geelong,99,0
+2019R2309,2019,R23,25-Aug-19,Adelaide Oval,4:10 PM,27504,Port Adelaide,110,Fremantle,67,0
+2019R2308,2019,R23,25-Aug-19,M.C.G.,3:20 PM,76995,Richmond,82,Brisbane Lions,55,1.2
+2019R2307,2019,R23,25-Aug-19,Eureka Stadium,1:10 PM,9560,Western Bulldogs,121,Adelaide,87,0.8
+2019R2306,2019,R23,24-Aug-19,Perth Stadium,6:10 PM,55859,West Coast,67,Hawthorn,105,0.2
+2019R2305,2019,R23,24-Aug-19,Carrara,7:25 PM,7610,Gold Coast,55,Greater Western Sydney,127,0
+2019R2304,2019,R23,24-Aug-19,Kardinia Park,4:35 PM,31669,Geelong,129,Carlton,61,0
+2019R2303,2019,R23,24-Aug-19,Bellerive Oval,2:10 PM,8202,North Melbourne,88,Melbourne,83,0
+2019R2302,2019,R23,24-Aug-19,S.C.G.,1:45 PM,33722,Sydney,109,St Kilda,64,0
+2019R2301,2019,R23,23-Aug-19,M.C.G.,7:50 PM,85405,Collingwood,76,Essendon,65,0
+2019R2209,2019,R22,18-Aug-19,Docklands,4:40 PM,31331,Hawthorn,118,Gold Coast,48,0.1
+2019R2208,2019,R22,18-Aug-19,Sydney Showground,3:20 PM,10139,Greater Western Sydney,65,Western Bulldogs,126,0
+2019R2207,2019,R22,18-Aug-19,M.C.G.,1:10 PM,57415,Richmond,88,West Coast,82,0.1
+2019R2206,2019,R22,17-Aug-19,Perth Stadium,6:10 PM,47833,Fremantle,55,Essendon,87,26.6
+2019R2205,2019,R22,17-Aug-19,Docklands,7:25 PM,17063,North Melbourne,144,Port Adelaide,58,4
+2019R2204,2019,R22,17-Aug-19,Adelaide Oval,4:05 PM,48175,Adelaide,48,Collingwood,114,0
+2019R2203,2019,R22,17-Aug-19,Gabba,2:10 PM,35608,Brisbane Lions,75,Geelong,74,0
+2019R2202,2019,R22,17-Aug-19,M.C.G.,1:45 PM,51786,Carlton,78,St Kilda,68,4
+2019R2201,2019,R22,16-Aug-19,M.C.G.,7:50 PM,23700,Melbourne,42,Sydney,95,0.4
+2019R2109,2019,R21,11-Aug-19,Perth Stadium,3:20 PM,54994,West Coast,90,Adelaide,80,0
+2019R2108,2019,R21,11-Aug-19,M.C.G.,3:20 PM,51039,Richmond,73,Carlton,45,6.8
+2019R2107,2019,R21,11-Aug-19,Docklands,1:10 PM,17715,St Kilda,72,Fremantle,69,6.8
+2019R2106,2019,R21,10-Aug-19,Kardinia Park,7:25 PM,21664,Geelong,69,North Melbourne,14,5.6
+2019R2105,2019,R21,10-Aug-19,Docklands,7:25 PM,41816,Essendon,33,Western Bulldogs,137,4.8
+2019R2104,2019,R21,10-Aug-19,Gabba,4:35 PM,22530,Brisbane Lions,144,Gold Coast,53,0
+2019R2103,2019,R21,10-Aug-19,Adelaide Oval,1:40 PM,29568,Port Adelaide,103,Sydney,56,5.8
+2019R2102,2019,R21,10-Aug-19,M.C.G.,1:45 PM,31903,Melbourne,53,Collingwood,70,4.8
+2019R2101,2019,R21,9-Aug-19,Manuka Oval,7:50 PM,11741,Greater Western Sydney,29,Hawthorn,85,0
+2019R209,2019,R2,31-Mar-19,Carrara,3:40 PM,10119,Gold Coast,61,Fremantle,58,2.6
+2019R208,2019,R2,31-Mar-19,M.C.G.,3:20 PM,39368,Hawthorn,87,Western Bulldogs,106,2
+2019R207,2019,R2,31-Mar-19,Docklands,1:10 PM,23100,North Melbourne,87,Brisbane Lions,107,2
+2019R206,2019,R2,30-Mar-19,Perth Stadium,5:10 PM,54985,West Coast,104,Greater Western Sydney,52,0
+2019R205,2019,R2,30-Mar-19,Kardinia Park,7:25 PM,27561,Geelong,126,Melbourne,46,0
+2019R204,2019,R2,30-Mar-19,Adelaide Oval,4:40 PM,41552,Port Adelaide,88,Carlton,72,1.8
+2019R203,2019,R2,30-Mar-19,Docklands,4:35 PM,44252,Essendon,65,St Kilda,76,2.2
+2019R202,2019,R2,29-Mar-19,S.C.G.,7:50 PM,32575,Sydney,62,Adelaide,88,0
+2019R201,2019,R2,28-Mar-19,M.C.G.,7:20 PM,70699,Richmond,66,Collingwood,110,0
+2019R2009,2019,R20,4-Aug-19,Gabba,4:40 PM,25831,Brisbane Lions,98,Western Bulldogs,80,0
+2019R2008,2019,R20,4-Aug-19,Docklands,3:20 PM,32802,Carlton,75,West Coast,99,1.2
+2019R2007,2019,R20,4-Aug-19,M.C.G.,1:10 PM,33577,Collingwood,120,Gold Coast,51,1.2
+2019R2006,2019,R20,3-Aug-19,Adelaide Oval,7:10 PM,39984,Adelaide,92,St Kilda,70,0
+2019R2005,2019,R20,3-Aug-19,M.C.G.,7:25 PM,37254,Melbourne,60,Richmond,93,0.2
+2019R2004,2019,R20,3-Aug-19,Perth Stadium,2:35 PM,36310,Fremantle,95,Geelong,61,0
+2019R2003,2019,R20,3-Aug-19,Sydney Showground,2:10 PM,16116,Greater Western Sydney,83,Sydney,81,0
+2019R2002,2019,R20,3-Aug-19,Docklands,1:45 PM,42940,Essendon,67,Port Adelaide,126,0.2
+2019R2001,2019,R20,2-Aug-19,Docklands,7:50 PM,33226,North Melbourne,86,Hawthorn,64,0.6
+2019R1909,2019,R19,28-Jul-19,Carrara,4:40 PM,15759,Gold Coast,96,Essendon,106,0
+2019R1908,2019,R19,28-Jul-19,S.C.G.,3:20 PM,32911,Sydney,80,Geelong,107,0
+2019R1907,2019,R19,28-Jul-19,Docklands,1:10 PM,21181,Western Bulldogs,113,Fremantle,66,2
+2019R1906,2019,R19,27-Jul-19,Adelaide Oval,7:10 PM,27591,Port Adelaide,55,Greater Western Sydney,56,0
+2019R1905,2019,R19,27-Jul-19,Docklands,7:25 PM,22854,St Kilda,104,Melbourne,85,8
+2019R1904,2019,R19,27-Jul-19,Perth Stadium,2:35 PM,54376,West Coast,121,North Melbourne,72,10.4
+2019R1903,2019,R19,27-Jul-19,M.C.G.,2:10 PM,38369,Carlton,87,Adelaide,60,8
+2019R1902,2019,R19,27-Jul-19,York Park,1:45 PM,15157,Hawthorn,60,Brisbane Lions,87,0.2
+2019R1901,2019,R19,26-Jul-19,M.C.G.,7:50 PM,78722,Collingwood,66,Richmond,98,0
+2019R1809,2019,R18,21-Jul-19,Docklands,4:40 PM,21705,St Kilda,116,Western Bulldogs,89,0
+2019R1808,2019,R18,21-Jul-19,Traeger Park,2:50 PM,7164,Melbourne,78,West Coast,91,0
+2019R1807,2019,R18,21-Jul-19,M.C.G.,1:10 PM,53636,Geelong,61,Hawthorn,85,0
+2019R1806,2019,R18,20-Jul-19,Perth Stadium,6:10 PM,33594,Fremantle,52,Sydney,51,13.2
+2019R1805,2019,R18,20-Jul-19,Gabba,7:25 PM,23833,Brisbane Lions,87,North Melbourne,75,0
+2019R1804,2019,R18,20-Jul-19,Sydney Showground,4:35 PM,15467,Greater Western Sydney,122,Collingwood,75,0
+2019R1803,2019,R18,20-Jul-19,Docklands,2:10 PM,31765,Carlton,99,Gold Coast,75,0
+2019R1802,2019,R18,20-Jul-19,M.C.G.,1:45 PM,41642,Richmond,101,Port Adelaide,63,0
+2019R1801,2019,R18,19-Jul-19,Adelaide Oval,7:20 PM,47735,Adelaide,75,Essendon,96,0
+2019R1709,2019,R17,14-Jul-19,Adelaide Oval,4:10 PM,33118,Port Adelaide,49,Brisbane Lions,97,3.6
+2019R1708,2019,R17,14-Jul-19,Docklands,3:20 PM,26781,Western Bulldogs,74,Melbourne,66,1.4
+2019R1707,2019,R17,14-Jul-19,M.C.G.,1:10 PM,38986,Richmond,94,Greater Western Sydney,67,1.4
+2019R1706,2019,R17,13-Jul-19,Kardinia Park,7:25 PM,24035,Geelong,84,St Kilda,57,3.2
+2019R1705,2019,R17,13-Jul-19,Carrara,7:25 PM,8741,Gold Coast,56,Adelaide,151,0
+2019R1704,2019,R17,13-Jul-19,Docklands,4:35 PM,45682,Essendon,86,North Melbourne,81,3
+2019R1703,2019,R17,13-Jul-19,York Park,2:10 PM,13006,Hawthorn,84,Fremantle,53,0.8
+2019R1702,2019,R17,13-Jul-19,S.C.G.,1:45 PM,32570,Sydney,62,Carlton,69,0
+2019R1701,2019,R17,12-Jul-19,Perth Stadium,6:10 PM,56251,West Coast,77,Collingwood,78,0
+2019R1609,2019,R16,7-Jul-19,Sydney Showground,4:40 PM,12268,Greater Western Sydney,74,Brisbane Lions,94,0
+2019R1608,2019,R16,7-Jul-19,Bellerive Oval,3:20 PM,10696,North Melbourne,112,St Kilda,73,0
+2019R1607,2019,R16,7-Jul-19,M.C.G.,1:10 PM,55593,Carlton,100,Melbourne,105,0
+2019R1606,2019,R16,6-Jul-19,Perth Stadium,6:10 PM,56358,Fremantle,31,West Coast,122,11.2
+2019R1605,2019,R16,6-Jul-19,Docklands,7:25 PM,35641,Western Bulldogs,71,Geelong,55,0.4
+2019R1604,2019,R16,6-Jul-19,Adelaide Oval,4:05 PM,50544,Adelaide,44,Port Adelaide,101,0
+2019R1603,2019,R16,6-Jul-19,Carrara,2:10 PM,16031,Gold Coast,58,Richmond,150,3.2
+2019R1602,2019,R16,6-Jul-19,M.C.G.,1:45 PM,60199,Essendon,76,Sydney,66,0.4
+2019R1601,2019,R16,5-Jul-19,M.C.G.,7:50 PM,66407,Hawthorn,67,Collingwood,63,0
+2019R1509,2019,R15,30-Jun-19,Perth Stadium,3:20 PM,37293,Fremantle,75,Carlton,79,0.4
+2019R1508,2019,R15,30-Jun-19,Gabba,3:20 PM,24809,Brisbane Lions,107,Melbourne,74,0.6
+2019R1507,2019,R15,30-Jun-19,Docklands,1:10 PM,40962,St Kilda,70,Richmond,103,7.2
+2019R1506,2019,R15,29-Jun-19,Adelaide Oval,7:10 PM,25623,Port Adelaide,41,Western Bulldogs,66,13
+2019R1505,2019,R15,29-Jun-19,Docklands,7:25 PM,38801,Collingwood,37,North Melbourne,81,1.2
+2019R1504,2019,R15,29-Jun-19,S.C.G.,4:35 PM,26194,Sydney,93,Gold Coast,51,0
+2019R1503,2019,R15,29-Jun-19,M.C.G.,1:45 PM,31895,Hawthorn,71,West Coast,77,1.2
+2019R1502,2019,R15,28-Jun-19,Kardinia Park,7:50 PM,28108,Geelong,96,Adelaide,69,0
+2019R1501,2019,R15,27-Jun-19,Docklands,7:20 PM,25195,Essendon,77,Greater Western Sydney,71,0
+2019R1406,2019,R14,23-Jun-19,Docklands,3:20 PM,39836,Western Bulldogs,73,Collingwood,82,0
+2019R1405,2019,R14,22-Jun-19,Adelaide Oval,7:10 PM,37726,Port Adelaide,67,Geelong,56,0
+2019R1404,2019,R14,22-Jun-19,Docklands,4:35 PM,22885,St Kilda,59,Brisbane Lions,115,1.8
+2019R1403,2019,R14,22-Jun-19,M.C.G.,1:45 PM,20211,Melbourne,85,Fremantle,71,1.8
+2019R1402,2019,R14,21-Jun-19,S.C.G.,7:50 PM,29553,Sydney,82,Hawthorn,63,0.4
+2019R1401,2019,R14,20-Jun-19,Perth Stadium,6:10 PM,52810,West Coast,106,Essendon,71,0
+2019R1306,2019,R13,16-Jun-19,Bellerive Oval,3:20 PM,7832,North Melbourne,68,Greater Western Sydney,91,0.2
+2019R1305,2019,R13,15-Jun-19,Docklands,7:25 PM,35479,Carlton,100,Western Bulldogs,103,3.6
+2019R1304,2019,R13,15-Jun-19,Perth Stadium,2:35 PM,37451,Fremantle,100,Port Adelaide,79,8.8
+2019R1303,2019,R13,15-Jun-19,Riverway Stadium,1:45 PM,7243,Gold Coast,76,St Kilda,80,0
+2019R1302,2019,R13,14-Jun-19,Docklands,7:50 PM,44846,Essendon,96,Hawthorn,77,2.2
+2019R1301,2019,R13,13-Jun-19,Adelaide Oval,7:20 PM,40837,Adelaide,101,Richmond,68,0.8
+2019R1206,2019,R12,10-Jun-19,M.C.G.,3:20 PM,74036,Collingwood,98,Melbourne,57,4.6
+2019R1205,2019,R12,9-Jun-19,S.C.G.,3:20 PM,36640,Sydney,116,West Coast,71,0
+2019R1204,2019,R12,8-Jun-19,Adelaide Oval,7:10 PM,41710,Adelaide,82,Greater Western Sydney,61,0
+2019R1203,2019,R12,8-Jun-19,Carrara,4:35 PM,9305,Gold Coast,72,North Melbourne,99,1.2
+2019R1202,2019,R12,8-Jun-19,Docklands,1:45 PM,32211,Carlton,78,Brisbane Lions,63,0.1
+2019R1201,2019,R12,7-Jun-19,M.C.G.,7:50 PM,65214,Richmond,37,Geelong,104,0
+2019R1109,2019,R11,2-Jun-19,Perth Stadium,3:20 PM,53195,West Coast,133,Western Bulldogs,72,0
+2019R1108,2019,R11,2-Jun-19,M.C.G.,3:20 PM,50423,Essendon,74,Carlton,33,0.2
+2019R1107,2019,R11,2-Jun-19,Jiangwan Stadium,12:20 PM,9412,St Kilda,69,Port Adelaide,139,
+2019R1106,2019,R11,1-Jun-19,Marrara Oval,7:10 PM,10634,Melbourne,88,Adelaide,90,0
+2019R1105,2019,R11,1-Jun-19,Gabba,7:25 PM,25051,Brisbane Lions,85,Hawthorn,66,0
+2019R1104,2019,R11,1-Jun-19,Kardinia Park,4:35 PM,29021,Geelong,85,Sydney,63,0.4
+2019R1103,2019,R11,1-Jun-19,Sydney Showground,1:45 PM,7581,Greater Western Sydney,126,Gold Coast,43,0
+2019R1102,2019,R11,1-Jun-19,M.C.G.,1:45 PM,41774,Collingwood,75,Fremantle,79,2.2
+2019R1101,2019,R11,31-May-19,Docklands,7:50 PM,29326,North Melbourne,99,Richmond,62,2.4
+2019R109,2019,R1,24-Mar-19,Perth Stadium,3:20 PM,40033,Fremantle,141,North Melbourne,59,0
+2019R108,2019,R1,24-Mar-19,Sydney Showground,3:20 PM,15424,Greater Western Sydney,112,Essendon,40,0.6
+2019R107,2019,R1,24-Mar-19,Docklands,1:10 PM,20291,St Kilda,85,Gold Coast,84,1.2
+2019R106,2019,R1,23-Mar-19,Gabba,7:20 PM,20029,Brisbane Lions,102,West Coast,58,0
+2019R105,2019,R1,23-Mar-19,Docklands,7:25 PM,32303,Western Bulldogs,82,Sydney,65,5
+2019R104,2019,R1,23-Mar-19,Adelaide Oval,4:05 PM,50180,Adelaide,55,Hawthorn,87,0
+2019R103,2019,R1,23-Mar-19,M.C.G.,1:45 PM,38866,Melbourne,61,Port Adelaide,87,5
+2019R102,2019,R1,22-Mar-19,M.C.G.,7:50 PM,78017,Collingwood,65,Geelong,72,0
+2019R101,2019,R1,21-Mar-19,M.C.G.,7:25 PM,85016,Carlton,64,Richmond,97,0
+2019R1009,2019,R10,26-May-19,Perth Stadium,3:20 PM,36383,Fremantle,73,Brisbane Lions,72,0
+2019R1008,2019,R10,26-May-19,Docklands,3:20 PM,35058,St Kilda,68,Carlton,55,8
+2019R1007,2019,R10,26-May-19,M.C.G.,1:10 PM,20023,Melbourne,68,Greater Western Sydney,94,8
+2019R1006,2019,R10,25-May-19,Carrara,7:25 PM,13144,Gold Coast,64,Geelong,91,0
+2019R1005,2019,R10,25-May-19,M.C.G.,7:25 PM,80176,Richmond,73,Essendon,50,2.4
+2019R1004,2019,R10,25-May-19,Adelaide Oval,4:05 PM,41630,Adelaide,73,West Coast,85,1.8
+2019R1003,2019,R10,25-May-19,Docklands,2:10 PM,26156,Western Bulldogs,90,North Melbourne,115,2.4
+2019R1002,2019,R10,25-May-19,York Park,1:45 PM,11637,Hawthorn,80,Port Adelaide,49,12.4
+2019R1001,2019,R10,24-May-19,S.C.G.,7:50 PM,34649,Sydney,73,Collingwood,80,0
+2019QF02,2019,QF,7-Sep-19,Gabba,7:25 PM,37478,Brisbane Lions,65,Richmond,112,0
+2019QF01,2019,QF,6-Sep-19,M.C.G.,7:50 PM,93436,Geelong,51,Collingwood,61,3
+2019PF02,2019,PF,21-Sep-19,M.C.G.,4:35 PM,77828,Collingwood,52,Greater Western Sydney,56,0.2
+2019PF01,2019,PF,20-Sep-19,M.C.G.,7:50 PM,94423,Richmond,85,Geelong,66,0
+2019GF01,2019,GF,28-Sep-19,M.C.G.,2:30 PM,100014,Richmond,114,Greater Western Sydney,25,0
+2019EF02,2019,EF,7-Sep-19,Sydney Showground,3:20 PM,19218,Greater Western Sydney,113,Western Bulldogs,55,0.4
+2019EF01,2019,EF,5-Sep-19,Perth Stadium,6:10 PM,59216,West Coast,116,Essendon,61,0
+2018SF02,2018,SF,15-Sep-18,M.C.G.,7:25 PM,72504,Collingwood,69,Greater Western Sydney,59,0.6
+2018SF01,2018,SF,14-Sep-18,M.C.G.,7:50 PM,90152,Hawthorn,71,Melbourne,104,0
+2018R909,2018,R9,20-May-18,Perth Stadium,2:40 PM,57616,West Coast,130,Richmond,83,0
+2018R908,2018,R9,20-May-18,Gabba,3:20 PM,20628,Brisbane Lions,129,Hawthorn,73,0
+2018R907,2018,R9,20-May-18,M.C.G.,1:10 PM,44142,Carlton,50,Melbourne,159,0.2
+2018R906,2018,R9,19-May-18,S.C.G.,7:25 PM,27481,Sydney,111,Fremantle,52,0
+2018R905,2018,R9,19-May-18,Docklands,7:25 PM,33994,St Kilda,72,Collingwood,100,3.6
+2018R904,2018,R9,19-May-18,M.C.G.,4:35 PM,50228,Essendon,84,Geelong,50,3.6
+2018R903,2018,R9,19-May-18,Jiangwan Stadium,1:15 PM,10689,Gold Coast,42,Port Adelaide,82,
+2018R902,2018,R9,19-May-18,Bellerive Oval,1:45 PM,7194,North Melbourne,112,Greater Western Sydney,69,0
+2018R901,2018,R9,18-May-18,Adelaide Oval,7:20 PM,39407,Adelaide,63,Western Bulldogs,26,4.6
+2018R809,2018,R8,13-May-18,M.C.G.,3:20 PM,44602,Collingwood,45,Geelong,66,3.7
+2018R808,2018,R8,13-May-18,Docklands,1:10 PM,29153,North Melbourne,72,Richmond,82,3.7
+2018R807,2018,R8,12-May-18,Perth Stadium,6:10 PM,41752,Fremantle,89,St Kilda,59,0
+2018R806,2018,R8,12-May-18,Docklands,7:25 PM,20865,Western Bulldogs,107,Brisbane Lions,93,8.4
+2018R805,2018,R8,12-May-18,Adelaide Oval,4:40 PM,50967,Port Adelaide,95,Adelaide,90,0
+2018R804,2018,R8,12-May-18,Gabba,4:35 PM,6060,Gold Coast,77,Melbourne,146,0
+2018R803,2018,R8,12-May-18,M.C.G.,2:10 PM,44669,Carlton,91,Essendon,78,8.4
+2018R802,2018,R8,12-May-18,Sydney Showground,1:45 PM,9253,Greater Western Sydney,61,West Coast,86,2
+2018R801,2018,R8,11-May-18,M.C.G.,7:50 PM,32784,Hawthorn,71,Sydney,79,19.6
+2018R709,2018,R7,6-May-18,Gabba,4:40 PM,21850,Brisbane Lions,114,Collingwood,121,0
+2018R708,2018,R7,6-May-18,Docklands,3:20 PM,25496,St Kilda,67,Melbourne,106,0
+2018R707,2018,R7,6-May-18,M.C.G.,1:10 PM,43240,Richmond,110,Fremantle,33,0
+2018R706,2018,R7,5-May-18,Adelaide Oval,7:10 PM,47422,Adelaide,125,Carlton,70,0.2
+2018R705,2018,R7,5-May-18,S.C.G.,7:25 PM,29124,Sydney,66,North Melbourne,68,0
+2018R704,2018,R7,5-May-18,Perth Stadium,2:35 PM,50516,West Coast,102,Port Adelaide,60,0
+2018R703,2018,R7,5-May-18,M.C.G.,2:10 PM,53018,Essendon,67,Hawthorn,90,2.2
+2018R702,2018,R7,5-May-18,Eureka Stadium,1:45 PM,6833,Western Bulldogs,81,Gold Coast,72,3
+2018R701,2018,R7,4-May-18,Kardinia Park,7:50 PM,25079,Geelong,93,Greater Western Sydney,32,0.4
+2018R609,2018,R6,29-Apr-18,Perth Stadium,2:40 PM,56521,Fremantle,81,West Coast,89,0
+2018R608,2018,R6,29-Apr-18,M.C.G.,3:20 PM,72157,Collingwood,70,Richmond,113,0
+2018R607,2018,R6,29-Apr-18,Docklands,1:10 PM,35964,Essendon,72,Melbourne,108,0
+2018R606,2018,R6,28-Apr-18,Adelaide Oval,7:10 PM,44835,Adelaide,110,Gold Coast,62,0
+2018R605,2018,R6,28-Apr-18,York Park,7:25 PM,15741,Hawthorn,89,St Kilda,54,0
+2018R604,2018,R6,28-Apr-18,Sydney Showground,4:35 PM,10046,Greater Western Sydney,77,Brisbane Lions,43,6
+2018R603,2018,R6,28-Apr-18,Docklands,2:10 PM,17617,North Melbourne,69,Port Adelaide,102,0
+2018R602,2018,R6,28-Apr-18,Kardinia Park,1:45 PM,31036,Geelong,69,Sydney,86,0
+2018R601,2018,R6,27-Apr-18,Docklands,7:50 PM,33915,Western Bulldogs,80,Carlton,59,0
+2018R509,2018,R5,25-Apr-18,M.C.G.,3:20 PM,91440,Collingwood,101,Essendon,52,0
+2018R508,2018,R5,24-Apr-18,M.C.G.,7:25 PM,77071,Melbourne,56,Richmond,102,0
+2018R507,2018,R5,22-Apr-18,Gabba,4:45 PM,16087,Brisbane Lions,71,Gold Coast,76,0.2
+2018R506,2018,R5,22-Apr-18,Docklands,3:20 PM,27981,North Melbourne,98,Hawthorn,70,0
+2018R505,2018,R5,21-Apr-18,Perth Stadium,6:15 PM,43056,Fremantle,108,Western Bulldogs,54,0
+2018R504,2018,R5,21-Apr-18,Adelaide Oval,7:10 PM,45372,Port Adelaide,50,Geelong,84,1.4
+2018R503,2018,R5,21-Apr-18,M.C.G.,4:35 PM,27900,Carlton,69,West Coast,79,0
+2018R502,2018,R5,21-Apr-18,Docklands,1:45 PM,14956,St Kilda,73,Greater Western Sydney,73,0
+2018R501,2018,R5,20-Apr-18,S.C.G.,7:50 PM,38017,Sydney,75,Adelaide,85,0
+2018R409,2018,R4,15-Apr-18,Kardinia Park,4:40 PM,27338,Geelong,103,St Kilda,56,7.2
+2018R408,2018,R4,15-Apr-18,M.C.G.,3:20 PM,41973,Hawthorn,115,Melbourne,48,15
+2018R407,2018,R4,15-Apr-18,Docklands,1:10 PM,30900,Essendon,106,Port Adelaide,84,15
+2018R406,2018,R4,14-Apr-18,Perth Stadium,6:10 PM,51774,West Coast,139,Gold Coast,59,0
+2018R405,2018,R4,14-Apr-18,Bellerive Oval,7:25 PM,14266,North Melbourne,116,Carlton,30,0.6
+2018R404,2018,R4,14-Apr-18,Docklands,4:35 PM,28058,Western Bulldogs,79,Sydney,86,1.4
+2018R403,2018,R4,14-Apr-18,M.C.G.,2:10 PM,32870,Richmond,110,Brisbane Lions,17,1.4
+2018R402,2018,R4,14-Apr-18,Manuka Oval,1:45 PM,11356,Greater Western Sydney,82,Fremantle,51,
+2018R401,2018,R4,13-Apr-18,Adelaide Oval,7:20 PM,45495,Adelaide,58,Collingwood,106,0
+2018R309,2018,R3,8-Apr-18,Perth Stadium,2:40 PM,54535,West Coast,95,Geelong,80,0
+2018R308,2018,R3,8-Apr-18,Docklands,3:20 PM,40499,Western Bulldogs,104,Essendon,83,0
+2018R307,2018,R3,8-Apr-18,M.C.G.,1:10 PM,70701,Richmond,102,Hawthorn,89,0
+2018R306,2018,R3,7-Apr-18,S.C.G.,7:25 PM,34711,Sydney,103,Greater Western Sydney,87,0
+2018R305,2018,R3,7-Apr-18,Docklands,7:25 PM,19324,St Kilda,55,Adelaide,104,0
+2018R304,2018,R3,7-Apr-18,Perth Stadium,2:35 PM,33388,Gold Coast,68,Fremantle,96,0
+2018R303,2018,R3,7-Apr-18,M.C.G.,2:10 PM,35518,Melbourne,123,North Melbourne,86,0
+2018R302,2018,R3,7-Apr-18,Adelaide Oval,1:15 PM,36363,Port Adelaide,97,Brisbane Lions,92,0
+2018R301,2018,R3,6-Apr-18,M.C.G.,7:50 PM,68548,Carlton,76,Collingwood,100,0
+2018R2309,2018,R23,26-Aug-18,Docklands,4:40 PM,19866,St Kilda,94,North Melbourne,117,0
+2018R2308,2018,R23,26-Aug-18,M.C.G.,3:20 PM,37285,Melbourne,102,Greater Western Sydney,57,0
+2018R2307,2018,R23,26-Aug-18,Gabba,1:10 PM,16367,Brisbane Lions,72,West Coast,98,11.2
+2018R2306,2018,R23,25-Aug-18,S.C.G.,7:25 PM,39660,Sydney,74,Hawthorn,83,0.8
+2018R2305,2018,R23,25-Aug-18,Docklands,7:25 PM,17000,Carlton,61,Adelaide,165,0
+2018R2304,2018,R23,25-Aug-18,Perth Stadium,2:35 PM,41320,Fremantle,67,Collingwood,76,0
+2018R2303,2018,R23,25-Aug-18,M.C.G.,2:10 PM,56998,Richmond,98,Western Bulldogs,95,0
+2018R2302,2018,R23,25-Aug-18,Kardinia Park,1:45 PM,28004,Geelong,142,Gold Coast,40,0
+2018R2301,2018,R23,24-Aug-18,Adelaide Oval,7:20 PM,39168,Port Adelaide,89,Essendon,111,0
+2018R2209,2018,R22,19-Aug-18,Adelaide Oval,4:10 PM,41444,Adelaide,86,North Melbourne,77,0.8
+2018R2208,2018,R22,19-Aug-18,Perth Stadium,1:20 PM,55824,West Coast,91,Melbourne,108,0
+2018R2207,2018,R22,19-Aug-18,Docklands,1:10 PM,24143,Carlton,49,Western Bulldogs,66,10.8
+2018R2206,2018,R22,18-Aug-18,Carrara,7:25 PM,11907,Gold Coast,74,Brisbane Lions,78,0
+2018R2205,2018,R22,18-Aug-18,Docklands,7:25 PM,24795,St Kilda,76,Hawthorn,80,0.4
+2018R2204,2018,R22,18-Aug-18,Sydney Showground,4:35 PM,21433,Greater Western Sydney,60,Sydney,80,0
+2018R2203,2018,R22,18-Aug-18,Kardinia Park,2:10 PM,24507,Geelong,158,Fremantle,25,1.4
+2018R2202,2018,R22,18-Aug-18,M.C.G.,1:45 PM,46286,Collingwood,115,Port Adelaide,64,0.4
+2018R2201,2018,R22,17-Aug-18,M.C.G.,7:50 PM,76424,Richmond,81,Essendon,73,1
+2018R2109,2018,R21,12-Aug-18,Perth Stadium,2:40 PM,40028,Fremantle,101,Carlton,72,0
+2018R2108,2018,R21,12-Aug-18,M.C.G.,3:20 PM,51424,Melbourne,78,Sydney,87,6.8
+2018R2107,2018,R21,12-Aug-18,Docklands,1:10 PM,27031,North Melbourne,85,Western Bulldogs,92,6.8
+2018R2106,2018,R21,11-Aug-18,Docklands,7:25 PM,33390,Collingwood,104,Brisbane Lions,73,10.2
+2018R2105,2018,R21,11-Aug-18,Manuka Oval,7:25 PM,13249,Greater Western Sydney,106,Adelaide,92,
+2018R2104,2018,R21,11-Aug-18,Adelaide Oval,4:05 PM,32534,Port Adelaide,58,West Coast,62,9.4
+2018R2103,2018,R21,11-Aug-18,Carrara,2:10 PM,18102,Gold Coast,51,Richmond,125,0
+2018R2102,2018,R21,11-Aug-18,M.C.G.,1:45 PM,59529,Hawthorn,71,Geelong,60,10.2
+2018R2101,2018,R21,10-Aug-18,Docklands,7:50 PM,37483,Essendon,122,St Kilda,79,0
+2018R209,2018,R2,2-Apr-18,M.C.G.,3:20 PM,73189,Geelong,117,Hawthorn,118,0
+2018R208,2018,R2,1-Apr-18,S.C.G.,4:40 PM,34636,Sydney,71,Port Adelaide,94,0
+2018R207,2018,R2,1-Apr-18,Docklands,3:20 PM,22868,Western Bulldogs,70,West Coast,121,0
+2018R206,2018,R2,31-Mar-18,Perth Stadium,5:10 PM,49021,Fremantle,106,Essendon,90,0
+2018R205,2018,R2,31-Mar-18,Gabba,6:25 PM,17141,Brisbane Lions,74,Melbourne,100,0.4
+2018R204,2018,R2,31-Mar-18,M.C.G.,4:35 PM,30941,Collingwood,79,Greater Western Sydney,95,0
+2018R203,2018,R2,31-Mar-18,Docklands,1:45 PM,28025,Carlton,67,Gold Coast,101,0
+2018R202,2018,R2,30-Mar-18,Docklands,4:20 PM,33966,North Melbourne,95,St Kilda,43,0
+2018R201,2018,R2,29-Mar-18,Adelaide Oval,7:20 PM,49743,Adelaide,118,Richmond,82,0
+2018R2009,2018,R20,5-Aug-18,Perth Stadium,2:40 PM,57375,West Coast,142,Fremantle,84,12.2
+2018R2008,2018,R20,5-Aug-18,M.C.G.,3:20 PM,23072,Melbourne,143,Gold Coast,47,0.2
+2018R2007,2018,R20,5-Aug-18,Docklands,1:10 PM,16697,Carlton,46,Greater Western Sydney,151,0.2
+2018R2006,2018,R20,4-Aug-18,Docklands,7:25 PM,20748,St Kilda,68,Western Bulldogs,103,2.2
+2018R2005,2018,R20,4-Aug-18,S.C.G.,7:25 PM,39238,Sydney,73,Collingwood,71,0
+2018R2004,2018,R20,4-Aug-18,Adelaide Oval,4:05 PM,50377,Adelaide,96,Port Adelaide,93,1.8
+2018R2003,2018,R20,4-Aug-18,Gabba,2:10 PM,18395,Brisbane Lions,104,North Melbourne,107,0
+2018R2002,2018,R20,4-Aug-18,M.C.G.,1:45 PM,68857,Hawthorn,107,Essendon,103,2.2
+2018R2001,2018,R20,3-Aug-18,M.C.G.,7:50 PM,67054,Richmond,85,Geelong,82,0
+2018R1909,2018,R19,29-Jul-18,Perth Stadium,2:40 PM,41845,Fremantle,53,Hawthorn,112,0
+2018R1908,2018,R19,29-Jul-18,Eureka Stadium,3:20 PM,6450,Western Bulldogs,34,Port Adelaide,78,10.4
+2018R1907,2018,R19,29-Jul-18,Bellerive Oval,1:10 PM,11176,North Melbourne,81,West Coast,41,3.2
+2018R1906,2018,R19,28-Jul-18,Adelaide Oval,7:10 PM,45880,Adelaide,77,Melbourne,90,0
+2018R1905,2018,R19,28-Jul-18,Carrara,7:25 PM,10776,Gold Coast,44,Carlton,79,0
+2018R1904,2018,R19,28-Jul-18,Sydney Showground,4:35 PM,12014,Greater Western Sydney,86,St Kilda,61,0
+2018R1903,2018,R19,28-Jul-18,Kardinia Park,2:10 PM,28226,Geelong,120,Brisbane Lions,78,0
+2018R1902,2018,R19,28-Jul-18,M.C.G.,1:45 PM,88180,Richmond,105,Collingwood,77,0.8
+2018R1901,2018,R19,27-Jul-18,Docklands,7:50 PM,42251,Essendon,109,Sydney,66,0
+2018R1809,2018,R18,22-Jul-18,Adelaide Oval,4:10 PM,34693,Port Adelaide,58,Greater Western Sydney,80,0
+2018R1808,2018,R18,22-Jul-18,Perth Stadium,1:20 PM,46854,West Coast,100,Western Bulldogs,46,20.2
+2018R1807,2018,R18,22-Jul-18,Docklands,1:10 PM,30405,Carlton,52,Hawthorn,124,0
+2018R1806,2018,R18,21-Jul-18,Kardinia Park,7:25 PM,30125,Geelong,100,Melbourne,98,2.6
+2018R1805,2018,R18,21-Jul-18,Gabba,7:25 PM,20475,Brisbane Lions,88,Adelaide,93,0
+2018R1804,2018,R18,21-Jul-18,Docklands,4:35 PM,31564,Essendon,99,Fremantle,70,0.8
+2018R1803,2018,R18,21-Jul-18,S.C.G.,2:10 PM,32565,Sydney,64,Gold Coast,88,0
+2018R1802,2018,R18,21-Jul-18,M.C.G.,1:45 PM,50393,Collingwood,130,North Melbourne,64,0.8
+2018R1801,2018,R18,20-Jul-18,Docklands,7:50 PM,36269,St Kilda,57,Richmond,111,5.4
+2018R1709,2018,R17,15-Jul-18,Perth Stadium,2:40 PM,33190,Fremantle,59,Port Adelaide,50,23.4
+2018R1708,2018,R17,15-Jul-18,Docklands,3:20 PM,25633,North Melbourne,98,Sydney,104,0
+2018R1707,2018,R17,15-Jul-18,M.C.G.,1:10 PM,53439,Collingwood,67,West Coast,102,0
+2018R1706,2018,R17,14-Jul-18,Sydney Showground,7:25 PM,14456,Greater Western Sydney,79,Richmond,77,0
+2018R1705,2018,R17,14-Jul-18,Carrara,7:25 PM,13061,Gold Coast,51,Essendon,95,0
+2018R1704,2018,R17,14-Jul-18,M.C.G.,4:35 PM,31053,Melbourne,119,Western Bulldogs,69,0
+2018R1703,2018,R17,14-Jul-18,York Park,1:45 PM,12557,Hawthorn,65,Brisbane Lions,98,0
+2018R1702,2018,R17,13-Jul-18,Docklands,7:50 PM,33780,St Kilda,116,Carlton,52,0
+2018R1701,2018,R17,12-Jul-18,Adelaide Oval,7:20 PM,46095,Adelaide,112,Geelong,97,1.8
+2018R1609,2018,R16,8-Jul-18,Perth Stadium,2:40 PM,52105,West Coast,86,Greater Western Sydney,75,0
+2018R1608,2018,R16,8-Jul-18,M.C.G.,3:20 PM,69868,Essendon,62,Collingwood,78,0
+2018R1607,2018,R16,8-Jul-18,Docklands,1:10 PM,14389,North Melbourne,95,Gold Coast,58,0
+2018R1606,2018,R16,7-Jul-18,Marrara Oval,7:10 PM,8689,Melbourne,102,Fremantle,48,0
+2018R1605,2018,R16,7-Jul-18,Docklands,7:25 PM,35320,Western Bulldogs,59,Hawthorn,122,0
+2018R1604,2018,R16,7-Jul-18,Adelaide Oval,4:05 PM,36253,Port Adelaide,86,St Kilda,50,9
+2018R1603,2018,R16,7-Jul-18,Gabba,1:45 PM,21074,Brisbane Lions,120,Carlton,55,2.6
+2018R1602,2018,R16,6-Jul-18,M.C.G.,7:50 PM,54934,Richmond,103,Adelaide,56,0
+2018R1601,2018,R16,5-Jul-18,S.C.G.,7:20 PM,34363,Sydney,59,Geelong,71,0.2
+2018R1509,2018,R15,1-Jul-18,Perth Stadium,2:40 PM,41674,Fremantle,64,Brisbane Lions,119,0
+2018R1508,2018,R15,1-Jul-18,Docklands,3:20 PM,45580,Essendon,125,North Melbourne,108,0.6
+2018R1507,2018,R15,1-Jul-18,M.C.G.,1:10 PM,38910,Melbourne,117,St Kilda,119,0.6
+2018R1506,2018,R15,30-Jun-18,Sydney Showground,7:25 PM,10866,Greater Western Sydney,95,Hawthorn,84,0
+2018R1505,2018,R15,30-Jun-18,Carrara,7:25 PM,13637,Gold Coast,60,Collingwood,99,0.2
+2018R1504,2018,R15,30-Jun-18,Adelaide Oval,4:05 PM,44771,Adelaide,88,West Coast,78,4
+2018R1503,2018,R15,30-Jun-18,M.C.G.,1:45 PM,26562,Carlton,69,Port Adelaide,90,1.2
+2018R1502,2018,R15,29-Jun-18,Docklands,7:50 PM,29499,Western Bulldogs,103,Geelong,101,0
+2018R1501,2018,R15,28-Jun-18,Docklands,7:20 PM,43519,Richmond,93,Sydney,67,0
+2018R1406,2018,R14,24-Jun-18,M.C.G.,3:20 PM,53706,Collingwood,79,Carlton,59,0
+2018R1405,2018,R14,23-Jun-18,Docklands,7:25 PM,26301,Western Bulldogs,75,North Melbourne,77,0
+2018R1404,2018,R14,23-Jun-18,Gabba,4:35 PM,11267,Brisbane Lions,82,Greater Western Sydney,109,0
+2018R1403,2018,R14,23-Jun-18,York Park,1:45 PM,9007,Hawthorn,96,Gold Coast,43,0.2
+2018R1402,2018,R14,22-Jun-18,Adelaide Oval,7:20 PM,40751,Port Adelaide,75,Melbourne,65,0
+2018R1401,2018,R14,21-Jun-18,Perth Stadium,6:10 PM,51409,West Coast,52,Essendon,80,0
+2018R1306,2018,R13,17-Jun-18,M.C.G.,3:20 PM,46423,Geelong,65,Richmond,83,18.8
+2018R1305,2018,R13,16-Jun-18,M.C.G.,7:25 PM,26693,Hawthorn,88,Adelaide,32,2.2
+2018R1304,2018,R13,16-Jun-18,Carrara,4:35 PM,10181,Gold Coast,78,St Kilda,80,0
+2018R1303,2018,R13,16-Jun-18,Docklands,1:45 PM,21430,Carlton,46,Fremantle,103,2.2
+2018R1302,2018,R13,15-Jun-18,S.C.G.,7:50 PM,36402,Sydney,72,West Coast,57,0
+2018R1301,2018,R13,14-Jun-18,Adelaide Oval,7:20 PM,26137,Port Adelaide,132,Western Bulldogs,75,2.4
+2018R1207,2018,R12,11-Jun-18,M.C.G.,3:20 PM,83518,Melbourne,91,Collingwood,133,0
+2018R1206,2018,R12,10-Jun-18,Perth Stadium,2:40 PM,33421,Fremantle,71,Adelaide,68,21.8
+2018R1205,2018,R12,10-Jun-18,Gabba,1:10 PM,20476,Brisbane Lions,62,Essendon,84,0.8
+2018R1204,2018,R12,9-Jun-18,Docklands,7:25 PM,27569,St Kilda,55,Sydney,126,4
+2018R1203,2018,R12,9-Jun-18,Sydney Showground,4:35 PM,7131,Greater Western Sydney,134,Gold Coast,26,9
+2018R1202,2018,R12,9-Jun-18,Kardinia Park,1:45 PM,31265,Geelong,96,North Melbourne,59,0
+2018R1201,2018,R12,8-Jun-18,Adelaide Oval,7:20 PM,39936,Port Adelaide,72,Richmond,58,3
+2018R1109,2018,R11,3-Jun-18,Adelaide Oval,4:10 PM,44120,Adelaide,81,Greater Western Sydney,97,0
+2018R1108,2018,R11,3-Jun-18,M.C.G.,3:20 PM,34542,Collingwood,138,Fremantle,77,0
+2018R1107,2018,R11,3-Jun-18,Docklands,1:10 PM,22133,North Melbourne,141,Brisbane Lions,87,0
+2018R1106,2018,R11,2-Jun-18,Perth Stadium,6:10 PM,54188,West Coast,101,St Kilda,88,0
+2018R1105,2018,R11,2-Jun-18,M.C.G.,7:25 PM,81046,Essendon,43,Richmond,114,0
+2018R1104,2018,R11,2-Jun-18,Carrara,4:35 PM,17490,Gold Coast,36,Geelong,121,0
+2018R1103,2018,R11,2-Jun-18,York Park,2:10 PM,13007,Hawthorn,64,Port Adelaide,61,0
+2018R1102,2018,R11,2-Jun-18,Docklands,1:45 PM,28485,Western Bulldogs,51,Melbourne,100,0
+2018R1101,2018,R11,1-Jun-18,S.C.G.,7:50 PM,27351,Sydney,91,Carlton,61,0.8
+2018R109,2018,R1,25-Mar-18,Perth Stadium,4:20 PM,53553,West Coast,86,Sydney,115,0
+2018R108,2018,R1,25-Mar-18,M.C.G.,3:20 PM,54112,Melbourne,94,Geelong,97,15
+2018R107,2018,R1,25-Mar-18,Manuka Oval,1:10 PM,10454,Greater Western Sydney,133,Western Bulldogs,51,
+2018R106,2018,R1,24-Mar-18,M.C.G.,7:25 PM,58051,Hawthorn,101,Collingwood,67,0.6
+2018R105,2018,R1,24-Mar-18,Cazaly's Stadium,6:25 PM,3722,Gold Coast,55,North Melbourne,39,8.2
+2018R104,2018,R1,24-Mar-18,Adelaide Oval,4:05 PM,38324,Port Adelaide,110,Fremantle,60,0
+2018R103,2018,R1,24-Mar-18,Docklands,3:35 PM,23731,St Kilda,107,Brisbane Lions,82,0.6
+2018R102,2018,R1,23-Mar-18,Docklands,7:50 PM,43016,Essendon,99,Adelaide,87,0
+2018R101,2018,R1,22-Mar-18,M.C.G.,7:25 PM,90151,Richmond,121,Carlton,95,0
+2018R1008,2018,R10,27-May-18,Perth Stadium,2:40 PM,37575,Fremantle,58,North Melbourne,86,4.2
+2018R1007,2018,R10,27-May-18,Traeger Park,2:50 PM,6989,Melbourne,146,Adelaide,55,0
+2018R1006,2018,R10,27-May-18,Docklands,1:10 PM,28077,Hawthorn,60,West Coast,75,0
+2018R1005,2018,R10,26-May-18,Sydney Showground,7:25 PM,10789,Greater Western Sydney,60,Essendon,95,0
+2018R1004,2018,R10,26-May-18,Kardinia Park,7:25 PM,31090,Geelong,73,Carlton,45,0
+2018R1003,2018,R10,26-May-18,Gabba,4:35 PM,18702,Brisbane Lions,49,Sydney,67,0
+2018R1002,2018,R10,26-May-18,M.C.G.,1:45 PM,48850,Richmond,105,St Kilda,77,0
+2018R1001,2018,R10,25-May-18,Docklands,7:50 PM,37985,Collingwood,90,Western Bulldogs,55,0
+2018QF02,2018,QF,8-Sep-18,Perth Stadium,6:10 PM,59585,West Coast,86,Collingwood,70,2.6
+2018QF01,2018,QF,6-Sep-18,M.C.G.,7:20 PM,91446,Richmond,95,Hawthorn,64,0.2
+2018PF02,2018,PF,22-Sep-18,Perth Stadium,1:20 PM,59608,West Coast,121,Melbourne,55,0
+2018PF01,2018,PF,21-Sep-18,M.C.G.,7:50 PM,94959,Richmond,58,Collingwood,97,0
+2018GF01,2018,GF,29-Sep-18,M.C.G.,2:30 PM,100022,West Coast,79,Collingwood,74,1.7
+2018EF02,2018,EF,8-Sep-18,S.C.G.,4:20 PM,40350,Sydney,30,Greater Western Sydney,79,30.4
+2018EF01,2018,EF,7-Sep-18,M.C.G.,7:50 PM,91767,Melbourne,75,Geelong,46,3.6
